@@ -67,7 +67,6 @@ public:
     }
 };
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+int main(int argc, char *argv[]) {
+    std::cout << argv[1] << " " << argv[2];
 }
