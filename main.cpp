@@ -51,6 +51,19 @@ public:
     }
 };
 
+class Triangle: virtual public Figure {
+public:
+    Point a, b, c;
+    Triangle(Point _a, Point _b, Point _c) {
+        a = _a;
+        b = _b;
+        c = _c;
+    }
+    double perimeter() override {
+        return 0;
+    }
+};
+
 int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
