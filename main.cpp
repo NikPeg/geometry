@@ -34,8 +34,20 @@ public:
         centre = _centre;
         radius = _radius;
     }
-    double perimeter() {
+    double perimeter() override {
         return 2 * M_PI * radius;
+    }
+};
+
+class Rectangle: virtual public Figure {
+public:
+    Point left_up, right_down;
+    Rectangle(Point _left_up, Point _right_down) {
+        left_up = _left_up;
+        right_down = _right_down;
+    }
+    double perimeter() override {
+        return 2 * (abs(left_up.x - right_down.x) + abs(left_up.y - right_down.y));
     }
 };
 
