@@ -12,6 +12,42 @@ enum Color{
     VIOLET,
 };
 
+std::string colorToString(Color color) {
+    switch (color) {
+        case RED:
+            return "RED";
+        case ORANGE:
+            return "ORANGE";
+        case YELLOW:
+            return "YELLOW";
+        case GREEN:
+            return "GREEN";
+        case LIGHT_BLUE:
+            return "LIGHT_BLUE";
+        case BLUE:
+            return "BLUE";
+        case VIOLET:
+            return "VIOLET";
+    }
+}
+
+Color stringToColor(std::string color_string) {
+    if (color_string == "RED")
+        return RED;
+    if (color_string == "ORANGE")
+            return ORANGE;
+    if (color_string == "YELLOW")
+        return YELLOW;
+    if (color_string == "GREEN")
+        return GREEN;
+    if (color_string == "LIGHT_BLUE")
+        return LIGHT_BLUE;
+    if (color_string == "BLUE")
+        return BLUE;
+    if (color_string == "VIOLET")
+        return VIOLET;
+}
+
 class Figure {
 public:
     Color color;
@@ -60,7 +96,9 @@ public:
     }
     void read() {
         Circle result = Circle();
-        scanf("%d %d %lg %u", &result.centre.x, &result.centre.y, &result.radius, &result.color);
+        std::string color_string;
+        scanf("%d %d %lg %u", &result.centre.x, &result.centre.y, &result.radius, &color_string);
+        result.color = stringToColor(color_string);
     }
 };
 
@@ -74,6 +112,10 @@ public:
     }
     double perimeter() override {
         return 2 * (abs(left_up.x - right_down.x) + abs(left_up.y - right_down.y));
+    }
+    void read() {
+        Circle result = Circle();
+        scanf("%d %d %lg %u", &result.centre.x, &result.centre.y, &result.radius, &result.color);
     }
 };
 
