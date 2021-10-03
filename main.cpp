@@ -3,19 +3,20 @@
 #include <iostream>
 
 enum Color{
-    red,
-    orange,
-    yellow,
-    green,
-    light_blue,
-    blue,
-    violet
+    RED,
+    ORANGE,
+    YELLOW,
+    GREEN,
+    LIGHT_BLUE,
+    BLUE,
+    VIOLET,
 };
 
 class Figure {
 public:
     Color color;
     virtual double perimeter();
+    virtual void read();
     bool operator<(Figure other) {
         return perimeter() < other.perimeter();
     }
@@ -44,6 +45,11 @@ class Circle: virtual public Figure {
 public:
     Point centre;
     double radius;
+    Circle() {
+        centre = Point();
+        radius = 0;
+        color = RED;
+    }
     Circle(Point _centre, double _radius, Color _color) {
         centre = _centre;
         radius = _radius;
@@ -51,6 +57,10 @@ public:
     }
     double perimeter() override {
         return 2 * M_PI * radius;
+    }
+    void read() {
+        Circle result = Circle();
+        scanf("%d %d %lg %u", &result.centre.x, &result.centre.y, &result.radius, &result.color);
     }
 };
 
@@ -84,7 +94,14 @@ public:
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
     std::freopen(argv[2], "w", stdout);
-    int a;
-    scanf("%d", &a);
-    std::cout << a;
+    int figures_count;
+    scanf("%d", &figures_count);
+    Figure figures[figures_count];
+    std::string figure_type, color;
+    for (int i = 0; i < figures_count; ++i) {
+        scanf("%s", &figure_type);
+        if (figure_type == "Circle") {
+            figures[i] = Circle.read();
+        }
+    }
 }
