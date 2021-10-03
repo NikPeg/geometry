@@ -1,4 +1,6 @@
 #include <iostream>
+#include <math.h>
+
 
 class Figure {
 public:
@@ -32,7 +34,9 @@ public:
         centre = _centre;
         radius = _radius;
     }
-
+    double perimeter() {
+        return 2 * M_PI * radius;
+    }
 };
 
 int main() {
