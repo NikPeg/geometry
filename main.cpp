@@ -24,6 +24,9 @@ public:
         x = _x;
         y = _y;
     }
+    static double distance(Point a, Point b) {
+        return sqrt((a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y));
+    }
 };
 
 class Circle: virtual public Figure {
@@ -60,7 +63,7 @@ public:
         c = _c;
     }
     double perimeter() override {
-        return 0;
+        return Point::distance(a, b) + Point::distance(b, c) + Point::distance(c, a);
     }
 };
 
