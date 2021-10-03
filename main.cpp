@@ -1,6 +1,6 @@
-#include <iostream>
+#include <cstdio>
 #include <math.h>
-
+#include <iostream>
 
 class Figure {
 public:
@@ -68,5 +68,9 @@ public:
 };
 
 int main(int argc, char *argv[]) {
-    std::cout << argv[1] << " " << argv[2];
+    std::freopen(argv[1], "r", stdin);
+    std::freopen(argv[2], "w", stdout);
+    int a;
+    scanf("%d", &a);
+    std::cout << a;
 }
