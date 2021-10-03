@@ -55,7 +55,9 @@ class Figure {
 public:
     Color color;
 
-    virtual double perimeter() {};
+    virtual double perimeter();
+
+//    virtual void print() {}
 
     bool operator<(Figure other) {
         return perimeter() < other.perimeter();
@@ -82,6 +84,10 @@ public:
 
     static double distance(Point a, Point b) {
         return sqrt((a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y));
+    }
+
+    void print() {
+        printf("(%d, %d)", x, y);
     }
 };
 
@@ -113,6 +119,12 @@ public:
         result.color = stringToColor(color_string);
         return result;
     }
+
+    void print() {
+        printf("Circle(");
+        centre.print();
+        printf(", %f)", radius);
+    }
 };
 
 class Rectangle : virtual public Figure {
@@ -141,6 +153,14 @@ public:
               &color_string[0]);
         result.color = stringToColor(color_string);
         return result;
+    }
+
+    void print() {
+        printf("Rectangle(");
+        left_up.print();
+        printf(", ");
+        right_down.print();
+        printf(")");
     }
 };
 
@@ -173,6 +193,16 @@ public:
         result.color = stringToColor(color_string);
         return result;
     }
+
+    void print() {
+        printf("Triangle(");
+        a.print();
+        printf(", ");
+        b.print();
+        printf(", ");
+        c.print();
+        printf(")");
+    }
 };
 
 int main(int argc, char *argv[]) {
@@ -193,5 +223,8 @@ int main(int argc, char *argv[]) {
         else if (figure_type == "Triangle") {
             figures[i] = Triangle::read();
         }
+    }
+    for (Figure f : figures) {
+        f.print();
     }
 }
