@@ -85,7 +85,8 @@ Circle readCircle() {
 void print(Circle c) {
     printf("Circle(");
     print(c.centre);
-    printf(", %f)\n", c.radius);
+    printf(", %f) ", c.radius);
+    printf("Perimeter: %f\n", perimeter(c));
 }
 
 struct Rectangle {
@@ -111,7 +112,8 @@ void print(Rectangle r) {
     print(r.left_up);
     printf(", ");
     print(r.right_down);
-    printf(")\n");
+    printf(") ");
+    printf("Perimeter: %f\n", perimeter(r));
 }
 
 struct Triangle {
@@ -138,7 +140,8 @@ void print(Triangle t) {
     print(t.b);
     printf(", ");
     print(t.c);
-    printf(")\n");
+    printf(") ");
+    printf("Perimeter: %f\n", perimeter(t));
 }
 
 using Figure = std::variant<Circle, Triangle, Rectangle>;
