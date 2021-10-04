@@ -1,6 +1,7 @@
 #include <cstdio>
-#include <math.h>
+#include <cmath>
 #include <iostream>
+#include <variant>
 
 enum Color {
     RED,
@@ -140,14 +141,21 @@ void print(Triangle t) {
     printf(")\n");
 }
 
-struct Shape {
-    enum type {CIRCLE, RECTANGLE, TRIANGLE};
-    union {
-        Circle c;
-        Rectangle r;
-        Triangle t;
-    };
-};
+using Figure = std::variant<Circle, Triangle, Rectangle>;
+
+void print(Figure f) {
+    try {
+        print(std::get<Circle>(f));
+        return;
+    }
+    catch (std::bad_variant_access const &ex) {}
+    try {
+        print(std::get<Rectangle>(f));
+        return;
+    }
+    catch (std::bad_variant_access const &ex) {}
+    print(std::get<Triangle>(f));
+}
 
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
@@ -155,27 +163,19 @@ int main(int argc, char *argv[]) {
     int figures_count;
     std::cin >> figures_count;
     const int MAX_COUNT = 10000;
-    Shape shapes[MAX_COUNT];
+    Figure figures[MAX_COUNT];
     std::string figure_type, color;
     for (int i = 0; i < figures_count; ++i) {
         std::cin >> figure_type;
         if (figure_type == "Circle") {
-            shapes[i].c = readCircle();
-        }
-        else if (figure_type == "Rectangle") {
-            shapes[i].r = readRectangle();
-        }
-        else if (figure_type == "Triangle") {
-            shapes[i].t = readTriangle();
+            figures[i] = readCircle();
+        } else if (figure_type == "Rectangle") {
+            figures[i] = readRectangle();
+        } else if (figure_type == "Triangle") {
+            figures[i] = readTriangle();
         }
     }
-    for (int i = 0; i < last_circle; ++i) {
-        print(circles[i]);
-    }
-    for (int i = 0; i < last_rectangle; ++i) {
-        print(rectangles[i]);
-    }
-    for (int i = 0; i < last_triangle; ++i) {
-        print(triangles[i]);
+    for (int i = 0; i < figures_count; ++i) {
+        print(figures[i]);
     }
 }
