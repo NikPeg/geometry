@@ -63,3 +63,14 @@ variant:
     Circle 20 байт [0]
     Rectangle 20 байт [20]
     Triangle 28 байт [4]
+
+Глобальная память:
+    пуста
+main:
+    figures_count (int) 4 байта [0]
+    figures (Figure[]) 68*figures_count байт [4]
+sort:
+    i (int) 4 байта [0]
+    j (int) 4 байта [4]
+    mxj (int) 4 байта [8]
+    mx (double) 8 байт [12]
