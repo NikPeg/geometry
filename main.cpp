@@ -101,8 +101,7 @@ double perimeter(Rectangle r) {
 Rectangle readRectangle() {
     Rectangle result = Rectangle();
     std::string color_string;
-    scanf("%d %d %d %d %s", &result.left_up.x, &result.left_up.y, &result.right_down.x, &result.right_down.y,
-          &color_string[0]);
+    std::cin >> result.left_up.x >> result.left_up.y >> result.right_down.x >> result.right_down.y >> color_string;
     result.color = stringToColor(color_string);
     return result;
 }
