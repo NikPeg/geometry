@@ -140,27 +140,33 @@ void print(Triangle t) {
     printf(")\n");
 }
 
+struct Shape {
+    enum type {CIRCLE, RECTANGLE, TRIANGLE};
+    union {
+        Circle c;
+        Rectangle r;
+        Triangle t;
+    };
+};
+
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
     std::freopen(argv[2], "w", stdout);
     int figures_count;
     std::cin >> figures_count;
     const int MAX_COUNT = 10000;
-    Triangle triangles[MAX_COUNT];
-    Circle circles[MAX_COUNT];
-    Rectangle rectangles[MAX_COUNT];
-    int last_triangle = 0, last_circle = 0, last_rectangle = 0;
+    Shape shapes[MAX_COUNT];
     std::string figure_type, color;
     for (int i = 0; i < figures_count; ++i) {
         std::cin >> figure_type;
         if (figure_type == "Circle") {
-            circles[last_circle++] = readCircle();
+            shapes[i].c = readCircle();
         }
         else if (figure_type == "Rectangle") {
-            rectangles[last_rectangle++] = readRectangle();
+            shapes[i].r = readRectangle();
         }
         else if (figure_type == "Triangle") {
-            triangles[last_triangle++] = readTriangle();
+            shapes[i].t = readTriangle();
         }
     }
     for (int i = 0; i < last_circle; ++i) {
