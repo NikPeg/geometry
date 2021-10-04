@@ -160,13 +160,38 @@ void print(Figure f) {
     print(std::get<Triangle>(f));
 }
 
+double perimeter(Figure f) {
+    try {
+        return perimeter(std::get<Circle>(f));
+    }
+    catch (std::bad_variant_access const &ex) {}
+    try {
+        return perimeter(std::get<Rectangle>(f));
+    }
+    catch (std::bad_variant_access const &ex) {}
+    return perimeter(std::get<Triangle>(f));
+}
+
+void sort(Figure figures[], int n) {
+    for (int i = 0; i < n; ++i) {
+        double mx = -1;
+        int mxj;
+        for (int j = i; j < n; ++j) {
+            if (perimeter(figures[j]) > mx) {
+                mx = perimeter(figures[j]);
+                mxj = j;
+            }
+        }
+        std::swap(figures[i], figures[mxj]);
+    }
+}
+
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
     std::freopen(argv[2], "w", stdout);
     int figures_count;
     std::cin >> figures_count;
-    const int MAX_COUNT = 10000;
-    Figure figures[MAX_COUNT];
+    Figure figures[figures_count];
     std::string figure_type, color;
     for (int i = 0; i < figures_count; ++i) {
         std::cin >> figure_type;
@@ -178,6 +203,7 @@ int main(int argc, char *argv[]) {
             figures[i] = readTriangle();
         }
     }
+    sort(figures, figures_count);
     for (int i = 0; i < figures_count; ++i) {
         print(figures[i]);
     }
