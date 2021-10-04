@@ -51,180 +51,126 @@ Color stringToColor(std::string color_string) {
     return RED;
 }
 
-class Figure {
-public:
-    Color color;
-
-    virtual double perimeter();
-
-//    virtual void print() {}
-
-    bool operator<(Figure other) {
-        return perimeter() < other.perimeter();
-    }
-
-    bool operator==(Figure other) {
-        return perimeter() == other.perimeter();
-    }
-};
-
-class Point {
-public:
+struct Point {
     int x, y;
-
-    Point() {
-        x = 0;
-        y = 0;
-    }
-
-    Point(int _x, int _y) {
-        x = _x;
-        y = _y;
-    }
-
-    static double distance(Point a, Point b) {
-        return sqrt((a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y));
-    }
-
-    void print() {
-        printf("(%d, %d)", x, y);
-    }
 };
 
-class Circle : virtual public Figure {
-public:
+double distance(Point a, Point b) {
+    return sqrt((a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y));
+}
+
+void print(Point p) {
+    printf("(%d, %d)", p.x, p.y);
+}
+
+struct Circle {
     Point centre;
     double radius;
-
-    Circle() {
-        centre = Point();
-        radius = 0;
-        color = RED;
-    }
-
-    Circle(Point _centre, double _radius, Color _color) {
-        centre = _centre;
-        radius = _radius;
-        color = _color;
-    }
-
-    double perimeter() override {
-        return 2 * M_PI * radius;
-    }
-
-    static Circle read() {
-        Circle result = Circle();
-        std::string color_string;
-        scanf("%d %d %lg %s", &result.centre.x, &result.centre.y, &result.radius, &color_string[0]);
-        result.color = stringToColor(color_string);
-        return result;
-    }
-
-    void print() {
-        printf("Circle(");
-        centre.print();
-        printf(", %f)", radius);
-    }
+    Color color;
 };
 
-class Rectangle : virtual public Figure {
-public:
+double perimeter(Circle c) {
+    return 2 * M_PI * c.radius;
+}
+
+Circle readCircle() {
+    Circle result = Circle();
+    std::string color_string;
+    scanf("%d %d %lg %s", &result.centre.x, &result.centre.y, &result.radius, &color_string[0]);
+    result.color = stringToColor(color_string);
+    return result;
+}
+
+void print(Circle c) {
+    printf("Circle(");
+    print(c.centre);
+    printf(", %f)", c.radius);
+}
+
+struct Rectangle {
     Point left_up, right_down;
-
-    Rectangle() {
-        left_up = Point();
-        right_down = Point();
-    }
-
-    Rectangle(Point _left_up, Point _right_down, Color _color) {
-        left_up = _left_up;
-        right_down = _right_down;
-        color = _color;
-    }
-
-    double perimeter() override {
-        return 2 * (abs(left_up.x - right_down.x) + abs(left_up.y - right_down.y));
-    }
-
-    static Rectangle read() {
-        Rectangle result = Rectangle();
-        std::string color_string;
-        scanf("%d %d %d %d %s", &result.left_up.x, &result.left_up.y, &result.right_down.x, &result.right_down.y,
-              &color_string[0]);
-        result.color = stringToColor(color_string);
-        return result;
-    }
-
-    void print() {
-        printf("Rectangle(");
-        left_up.print();
-        printf(", ");
-        right_down.print();
-        printf(")");
-    }
+    Color color;
 };
 
-class Triangle : virtual public Figure {
-public:
+double perimeter(Rectangle r) {
+    return 2 * (abs(r.left_up.x - r.right_down.x) + abs(r.left_up.y - r.right_down.y));
+}
+
+Rectangle readRectangle() {
+    Rectangle result = Rectangle();
+    std::string color_string;
+    scanf("%d %d %d %d %s", &result.left_up.x, &result.left_up.y, &result.right_down.x, &result.right_down.y,
+          &color_string[0]);
+    result.color = stringToColor(color_string);
+    return result;
+}
+
+void print(Rectangle r) {
+    printf("Rectangle(");
+    print(r.left_up);
+    printf(", ");
+    print(r.right_down);
+    printf(")");
+}
+
+struct Triangle {
     Point a, b, c;
-
-    Triangle() {
-        a = Point();
-        b = Point();
-        c = Point();
-    }
-
-    Triangle(Point _a, Point _b, Point _c, Color _color) {
-        a = _a;
-        b = _b;
-        c = _c;
-        color = _color;
-    }
-
-    double perimeter() override {
-        return Point::distance(a, b) + Point::distance(b, c) + Point::distance(c, a);
-    }
-
-    static Triangle read() {
-        Triangle result = Triangle();
-        std::string color_string;
-        scanf("%d %d %d %d %d %d %s", &result.a.x, &result.a.y, &result.b.x, &result.b.y, &result.c.x, &result.c.y,
-              &color_string[0]);
-        result.color = stringToColor(color_string);
-        return result;
-    }
-
-    void print() {
-        printf("Triangle(");
-        a.print();
-        printf(", ");
-        b.print();
-        printf(", ");
-        c.print();
-        printf(")");
-    }
+    Color color;
 };
+
+double perimeter(Triangle t) {
+    return distance(t.a, t.b) + distance(t.b, t.c) + distance(t.c, t.a);
+}
+
+Triangle readTriangle() {
+    Triangle result = Triangle();
+    std::string color_string;
+    scanf("%d %d %d %d %d %d %s", &result.a.x, &result.a.y, &result.b.x, &result.b.y, &result.c.x, &result.c.y,
+          &color_string[0]);
+    result.color = stringToColor(color_string);
+    return result;
+}
+
+void print(Triangle t) {
+    printf("Triangle(");
+    print(t.a);
+    printf(", ");
+    print(t.b);
+    printf(", ");
+    print(t.c);
+    printf(")");
+}
 
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
     std::freopen(argv[2], "w", stdout);
     int figures_count;
     scanf("%d", &figures_count);
-    Figure figures[figures_count];
+    const int MAX_COUNT = 10000;
+    Triangle triangles[MAX_COUNT];
+    Circle circles[MAX_COUNT];
+    Rectangle rectangles[MAX_COUNT];
+    int last_triangle = 0, last_circle = 0, last_rectangle = 0;
     std::string figure_type, color;
     for (int i = 0; i < figures_count; ++i) {
         scanf("%s", &figure_type[0]);
         if (figure_type == "Circle") {
-            figures[i] = Circle::read();
+            circles[last_circle++] = readCircle();
         }
         else if (figure_type == "Rectangle") {
-            figures[i] = Rectangle::read();
+            rectangles[last_rectangle++] = readRectangle();
         }
         else if (figure_type == "Triangle") {
-            figures[i] = Triangle::read();
+            triangles[last_triangle++] = readTriangle();
         }
     }
-    for (Figure f : figures) {
-        f.print();
+    for (int i = 0; i < last_circle; ++i) {
+        print(circles[i]);
+    }
+    for (int i = 0; i < last_rectangle; ++i) {
+        print(rectangles[i]);
+    }
+    for (int i = 0; i < last_triangle; ++i) {
+        print(triangles[i]);
     }
 }
