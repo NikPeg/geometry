@@ -85,7 +85,7 @@ Circle readCircle() {
 void print(Circle c) {
     printf("Circle(");
     print(c.centre);
-    printf(", %f) ", c.radius);
+    printf(", %f, %s) ", c.radius, colorToString(c.color).c_str());
     printf("Perimeter: %f\n", perimeter(c));
 }
 
@@ -111,7 +111,7 @@ void print(Rectangle r) {
     print(r.left_up);
     printf(", ");
     print(r.right_down);
-    printf(") ");
+    printf(", %s) ", colorToString(r.color).c_str());
     printf("Perimeter: %f\n", perimeter(r));
 }
 
@@ -139,7 +139,7 @@ void print(Triangle t) {
     print(t.b);
     printf(", ");
     print(t.c);
-    printf(") ");
+    printf(", %s) ", colorToString(t.color).c_str());
     printf("Perimeter: %f\n", perimeter(t));
 }
 
