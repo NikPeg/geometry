@@ -1,0 +1,1000 @@
+Circle((656, 504), 999.000000, YELLOW) Perimeter: 6276.902122
+Circle((795, 854), 995.000000, GREEN) Perimeter: 6251.769381
+Circle((579, 876), 995.000000, YELLOW) Perimeter: 6251.769381
+Circle((999, 743), 992.000000, LIGHT_BLUE) Perimeter: 6232.919825
+Circle((534, 504), 987.000000, RED) Perimeter: 6201.503898
+Circle((495, 311), 978.000000, GREEN) Perimeter: 6144.955230
+Circle((886, 633), 976.000000, ORANGE) Perimeter: 6132.388860
+Circle((921, 161), 970.000000, GREEN) Perimeter: 6094.689748
+Circle((997, 934), 969.000000, ORANGE) Perimeter: 6088.406563
+Circle((550, 935), 967.000000, YELLOW) Perimeter: 6075.840192
+Circle((96, 762), 967.000000, LIGHT_BLUE) Perimeter: 6075.840192
+Circle((814, 599), 966.000000, BLUE) Perimeter: 6069.557007
+Circle((728, 342), 963.000000, VIOLET) Perimeter: 6050.707451
+Circle((896, 323), 958.000000, YELLOW) Perimeter: 6019.291524
+Circle((839, 204), 955.000000, LIGHT_BLUE) Perimeter: 6000.441968
+Circle((226, 437), 950.000000, LIGHT_BLUE) Perimeter: 5969.026042
+Circle((351, 839), 948.000000, RED) Perimeter: 5956.459671
+Circle((647, 517), 947.000000, LIGHT_BLUE) Perimeter: 5950.176486
+Circle((266, 555), 945.000000, VIOLET) Perimeter: 5937.610115
+Circle((50, 336), 943.000000, LIGHT_BLUE) Perimeter: 5925.043745
+Circle((514, 952), 943.000000, GREEN) Perimeter: 5925.043745
+Circle((311, 141), 941.000000, BLUE) Perimeter: 5912.477374
+Circle((888, 630), 939.000000, YELLOW) Perimeter: 5899.911003
+Circle((738, 268), 939.000000, BLUE) Perimeter: 5899.911003
+Circle((442, 80), 938.000000, GREEN) Perimeter: 5893.627818
+Circle((519, 655), 935.000000, VIOLET) Perimeter: 5874.778262
+Circle((871, 503), 934.000000, ORANGE) Perimeter: 5868.495077
+Circle((949, 24), 934.000000, RED) Perimeter: 5868.495077
+Circle((661, 235), 932.000000, RED) Perimeter: 5855.928706
+Circle((382, 871), 928.000000, RED) Perimeter: 5830.795965
+Circle((610, 797), 924.000000, YELLOW) Perimeter: 5805.663224
+Circle((143, 935), 918.000000, RED) Perimeter: 5767.964112
+Circle((762, 541), 917.000000, GREEN) Perimeter: 5761.680927
+Circle((101, 49), 915.000000, ORANGE) Perimeter: 5749.114556
+Circle((73, 849), 912.000000, ORANGE) Perimeter: 5730.265000
+Circle((558, 563), 900.000000, GREEN) Perimeter: 5654.866776
+Circle((150, 449), 894.000000, ORANGE) Perimeter: 5617.167665
+Circle((823, 375), 886.000000, YELLOW) Perimeter: 5566.902182
+Circle((556, 360), 879.000000, VIOLET) Perimeter: 5522.919885
+Circle((71, 248), 877.000000, RED) Perimeter: 5510.353514
+Circle((247, 96), 873.000000, GREEN) Perimeter: 5485.220773
+Circle((361, 165), 869.000000, VIOLET) Perimeter: 5460.088032
+Circle((44, 681), 868.000000, ORANGE) Perimeter: 5453.804847
+Circle((824, 796), 868.000000, ORANGE) Perimeter: 5453.804847
+Circle((550, 544), 862.000000, LIGHT_BLUE) Perimeter: 5416.105735
+Circle((43, 453), 862.000000, RED) Perimeter: 5416.105735
+Circle((790, 105), 862.000000, BLUE) Perimeter: 5416.105735
+Circle((868, 786), 855.000000, LIGHT_BLUE) Perimeter: 5372.123438
+Circle((952, 985), 850.000000, VIOLET) Perimeter: 5340.707511
+Circle((12, 438), 848.000000, ORANGE) Perimeter: 5328.141140
+Circle((587, 561), 846.000000, BLUE) Perimeter: 5315.574770
+Circle((327, 86), 840.000000, RED) Perimeter: 5277.875658
+Circle((220, 948), 837.000000, ORANGE) Perimeter: 5259.026102
+Circle((756, 560), 832.000000, VIOLET) Perimeter: 5227.610176
+Circle((875, 125), 830.000000, YELLOW) Perimeter: 5215.043805
+Circle((161, 476), 829.000000, ORANGE) Perimeter: 5208.760620
+Circle((254, 848), 824.000000, GREEN) Perimeter: 5177.344693
+Circle((52, 553), 821.000000, RED) Perimeter: 5158.495137
+Circle((818, 678), 813.000000, VIOLET) Perimeter: 5108.229655
+Circle((665, 81), 797.000000, RED) Perimeter: 5007.698690
+Circle((940, 359), 784.000000, RED) Perimeter: 4926.017281
+Circle((691, 976), 780.000000, YELLOW) Perimeter: 4900.884540
+Circle((707, 135), 780.000000, ORANGE) Perimeter: 4900.884540
+Circle((0, 64), 778.000000, LIGHT_BLUE) Perimeter: 4888.318169
+Circle((782, 489), 775.000000, RED) Perimeter: 4869.468613
+Circle((219, 917), 773.000000, ORANGE) Perimeter: 4856.902242
+Circle((109, 39), 773.000000, VIOLET) Perimeter: 4856.902242
+Circle((444, 920), 763.000000, GREEN) Perimeter: 4794.070389
+Circle((422, 810), 756.000000, YELLOW) Perimeter: 4750.088092
+Circle((1, 553), 754.000000, LIGHT_BLUE) Perimeter: 4737.521722
+Circle((945, 749), 752.000000, GREEN) Perimeter: 4724.955351
+Circle((713, 687), 751.000000, YELLOW) Perimeter: 4718.672166
+Circle((337, 523), 751.000000, RED) Perimeter: 4718.672166
+Circle((842, 643), 748.000000, RED) Perimeter: 4699.822610
+Circle((126, 244), 746.000000, GREEN) Perimeter: 4687.256239
+Circle((523, 307), 742.000000, LIGHT_BLUE) Perimeter: 4662.123498
+Circle((329, 672), 740.000000, ORANGE) Perimeter: 4649.557127
+Circle((671, 615), 739.000000, RED) Perimeter: 4643.273942
+Circle((451, 241), 734.000000, GREEN) Perimeter: 4611.858015
+Circle((17, 355), 730.000000, GREEN) Perimeter: 4586.725274
+Circle((242, 567), 728.000000, BLUE) Perimeter: 4574.158904
+Circle((549, 841), 723.000000, VIOLET) Perimeter: 4542.742977
+Circle((471, 624), 722.000000, RED) Perimeter: 4536.459792
+Circle((985, 857), 719.000000, RED) Perimeter: 4517.610236
+Circle((120, 452), 719.000000, RED) Perimeter: 4517.610236
+Circle((391, 760), 718.000000, BLUE) Perimeter: 4511.327051
+Circle((712, 596), 714.000000, LIGHT_BLUE) Perimeter: 4486.194309
+Circle((759, 992), 714.000000, GREEN) Perimeter: 4486.194309
+Circle((205, 775), 708.000000, BLUE) Perimeter: 4448.495197
+Circle((893, 566), 708.000000, YELLOW) Perimeter: 4448.495197
+Circle((811, 465), 705.000000, YELLOW) Perimeter: 4429.645642
+Circle((603, 505), 703.000000, GREEN) Perimeter: 4417.079271
+Circle((114, 848), 699.000000, RED) Perimeter: 4391.946530
+Circle((382, 299), 699.000000, GREEN) Perimeter: 4391.946530
+Circle((282, 86), 694.000000, RED) Perimeter: 4360.530603
+Circle((628, 868), 693.000000, VIOLET) Perimeter: 4354.247418
+Circle((483, 744), 690.000000, GREEN) Perimeter: 4335.397862
+Circle((267, 640), 690.000000, BLUE) Perimeter: 4335.397862
+Circle((165, 747), 679.000000, GREEN) Perimeter: 4266.282824
+Circle((899, 683), 679.000000, LIGHT_BLUE) Perimeter: 4266.282824
+Circle((145, 410), 676.000000, RED) Perimeter: 4247.433268
+Circle((726, 423), 674.000000, LIGHT_BLUE) Perimeter: 4234.866897
+Circle((364, 234), 672.000000, GREEN) Perimeter: 4222.300526
+Circle((62, 619), 672.000000, VIOLET) Perimeter: 4222.300526
+Circle((814, 374), 665.000000, VIOLET) Perimeter: 4178.318229
+Circle((911, 360), 665.000000, RED) Perimeter: 4178.318229
+Circle((187, 931), 663.000000, LIGHT_BLUE) Perimeter: 4165.751859
+Circle((206, 22), 661.000000, ORANGE) Perimeter: 4153.185488
+Circle((310, 325), 660.000000, RED) Perimeter: 4146.902303
+Circle((927, 716), 657.000000, LIGHT_BLUE) Perimeter: 4128.052747
+Circle((173, 571), 654.000000, LIGHT_BLUE) Perimeter: 4109.203191
+Circle((791, 714), 654.000000, VIOLET) Perimeter: 4109.203191
+Circle((835, 436), 648.000000, RED) Perimeter: 4071.504079
+Circle((153, 993), 648.000000, ORANGE) Perimeter: 4071.504079
+Circle((652, 348), 647.000000, BLUE) Perimeter: 4065.220894
+Circle((974, 585), 645.000000, RED) Perimeter: 4052.654523
+Circle((403, 671), 644.000000, YELLOW) Perimeter: 4046.371338
+Circle((570, 51), 643.000000, VIOLET) Perimeter: 4040.088153
+Circle((670, 883), 642.000000, LIGHT_BLUE) Perimeter: 4033.804967
+Circle((97, 171), 641.000000, BLUE) Perimeter: 4027.521782
+Circle((227, 145), 635.000000, YELLOW) Perimeter: 3989.822670
+Circle((695, 899), 630.000000, ORANGE) Perimeter: 3958.406744
+Circle((398, 807), 630.000000, GREEN) Perimeter: 3958.406744
+Circle((37, 122), 625.000000, LIGHT_BLUE) Perimeter: 3926.990817
+Circle((472, 316), 617.000000, YELLOW) Perimeter: 3876.725335
+Circle((287, 9), 612.000000, YELLOW) Perimeter: 3845.309408
+Circle((744, 400), 609.000000, VIOLET) Perimeter: 3826.459852
+Circle((946, 905), 605.000000, GREEN) Perimeter: 3801.327111
+Circle((270, 769), 602.000000, LIGHT_BLUE) Perimeter: 3782.477555
+Circle((342, 132), 600.000000, BLUE) Perimeter: 3769.911184
+Circle((375, 427), 595.000000, ORANGE) Perimeter: 3738.495258
+Circle((10, 432), 594.000000, YELLOW) Perimeter: 3732.212072
+Circle((453, 884), 590.000000, LIGHT_BLUE) Perimeter: 3707.079331
+Circle((464, 6), 589.000000, GREEN) Perimeter: 3700.796146
+Circle((769, 353), 588.000000, LIGHT_BLUE) Perimeter: 3694.512961
+Circle((462, 905), 581.000000, GREEN) Perimeter: 3650.530663
+Circle((15, 810), 572.000000, VIOLET) Perimeter: 3593.981996
+Circle((866, 1), 568.000000, BLUE) Perimeter: 3568.849254
+Circle((778, 33), 566.000000, RED) Perimeter: 3556.282884
+Circle((148, 222), 556.000000, LIGHT_BLUE) Perimeter: 3493.451031
+Circle((468, 251), 556.000000, VIOLET) Perimeter: 3493.451031
+Circle((768, 341), 552.000000, GREEN) Perimeter: 3468.318290
+Rectangle((859, 961), (73, 22), GREEN) Perimeter: 3450.000000
+Circle((805, 631), 543.000000, LIGHT_BLUE) Perimeter: 3411.769622
+Circle((800, 973), 542.000000, GREEN) Perimeter: 3405.486436
+Circle((831, 65), 539.000000, BLUE) Perimeter: 3386.636881
+Circle((510, 358), 534.000000, ORANGE) Perimeter: 3355.220954
+Circle((626, 468), 525.000000, VIOLET) Perimeter: 3298.672286
+Circle((528, 210), 516.000000, BLUE) Perimeter: 3242.123619
+Circle((497, 731), 514.000000, BLUE) Perimeter: 3229.557248
+Circle((457, 899), 514.000000, GREEN) Perimeter: 3229.557248
+Circle((198, 160), 509.000000, BLUE) Perimeter: 3198.141321
+Circle((536, 849), 503.000000, RED) Perimeter: 3160.442210
+Circle((267, 318), 493.000000, VIOLET) Perimeter: 3097.610356
+Circle((512, 221), 493.000000, VIOLET) Perimeter: 3097.610356
+Circle((9, 62), 492.000000, YELLOW) Perimeter: 3091.327171
+Circle((769, 265), 488.000000, RED) Perimeter: 3066.194430
+Circle((59, 545), 483.000000, VIOLET) Perimeter: 3034.778503
+Circle((200, 770), 481.000000, ORANGE) Perimeter: 3022.212133
+Circle((648, 565), 480.000000, BLUE) Perimeter: 3015.928947
+Rectangle((908, 889), (242, 75), YELLOW) Perimeter: 2960.000000
+Circle((219, 86), 470.000000, VIOLET) Perimeter: 2953.097094
+Circle((663, 667), 466.000000, GREEN) Perimeter: 2927.964353
+Circle((486, 116), 465.000000, GREEN) Perimeter: 2921.681168
+Circle((523, 552), 465.000000, GREEN) Perimeter: 2921.681168
+Rectangle((749, 987), (49, 228), VIOLET) Perimeter: 2918.000000
+Circle((135, 625), 461.000000, ORANGE) Perimeter: 2896.548427
+Circle((30, 955), 460.000000, RED) Perimeter: 2890.265241
+Rectangle((968, 138), (348, 948), ORANGE) Perimeter: 2860.000000
+Circle((887, 550), 454.000000, GREEN) Perimeter: 2852.566129
+Rectangle((751, 58), (31, 759), YELLOW) Perimeter: 2842.000000
+Rectangle((43, 795), (674, 11), VIOLET) Perimeter: 2830.000000
+Circle((421, 461), 449.000000, BLUE) Perimeter: 2821.150203
+Circle((50, 421), 448.000000, RED) Perimeter: 2814.867018
+Rectangle((251, 916), (782, 44), GREEN) Perimeter: 2806.000000
+Circle((401, 494), 446.000000, VIOLET) Perimeter: 2802.300647
+Circle((569, 847), 446.000000, BLUE) Perimeter: 2802.300647
+Circle((954, 827), 446.000000, LIGHT_BLUE) Perimeter: 2802.300647
+Rectangle((532, 92), (38, 988), VIOLET) Perimeter: 2780.000000
+Circle((297, 900), 442.000000, LIGHT_BLUE) Perimeter: 2777.167906
+Circle((858, 28), 441.000000, YELLOW) Perimeter: 2770.884720
+Rectangle((76, 591), (881, 22), YELLOW) Perimeter: 2748.000000
+Circle((567, 366), 435.000000, GREEN) Perimeter: 2733.185609
+Rectangle((965, 342), (61, 804), YELLOW) Perimeter: 2732.000000
+Circle((843, 361), 433.000000, ORANGE) Perimeter: 2720.619238
+Rectangle((104, 750), (738, 24), BLUE) Perimeter: 2720.000000
+Circle((232, 457), 432.000000, VIOLET) Perimeter: 2714.336053
+Triangle((154, 980), (474, 61), (883, 973), YELLOW) Perimeter: 2701.665200
+Circle((498, 689), 429.000000, BLUE) Perimeter: 2695.486497
+Circle((581, 724), 428.000000, BLUE) Perimeter: 2689.203311
+Circle((62, 430), 428.000000, ORANGE) Perimeter: 2689.203311
+Circle((145, 551), 425.000000, VIOLET) Perimeter: 2670.353756
+Rectangle((727, 781), (142, 48), VIOLET) Perimeter: 2636.000000
+Rectangle((922, 488), (61, 31), GREEN) Perimeter: 2636.000000
+Circle((35, 586), 419.000000, ORANGE) Perimeter: 2632.654644
+Circle((197, 296), 417.000000, ORANGE) Perimeter: 2620.088273
+Rectangle((14, 950), (854, 493), YELLOW) Perimeter: 2594.000000
+Circle((405, 225), 412.000000, LIGHT_BLUE) Perimeter: 2588.672347
+Triangle((41, 54), (898, 990), (767, 608), VIOLET) Perimeter: 2586.141959
+Circle((360, 851), 410.000000, GREEN) Perimeter: 2576.105976
+Circle((630, 420), 410.000000, RED) Perimeter: 2576.105976
+Circle((241, 256), 407.000000, RED) Perimeter: 2557.256420
+Triangle((2, 960), (663, 121), (929, 467), YELLOW) Perimeter: 2554.474938
+Triangle((60, 70), (772, 991), (432, 42), RED) Perimeter: 2545.244363
+Rectangle((957, 202), (455, 972), VIOLET) Perimeter: 2544.000000
+Circle((790, 904), 403.000000, YELLOW) Perimeter: 2532.123679
+Rectangle((43, 863), (467, 21), BLUE) Perimeter: 2532.000000
+Rectangle((991, 446), (153, 870), LIGHT_BLUE) Perimeter: 2524.000000
+Triangle((81, 743), (958, 84), (79, 209), GREEN) Perimeter: 2518.847656
+Rectangle((943, 163), (407, 883), YELLOW) Perimeter: 2512.000000
+Rectangle((900, 77), (271, 702), YELLOW) Perimeter: 2508.000000
+Circle((878, 858), 397.000000, YELLOW) Perimeter: 2494.424567
+Circle((757, 862), 396.000000, YELLOW) Perimeter: 2488.141382
+Rectangle((54, 309), (932, 673), ORANGE) Perimeter: 2484.000000
+Circle((846, 106), 392.000000, YELLOW) Perimeter: 2463.008640
+Circle((689, 937), 391.000000, GREEN) Perimeter: 2456.725455
+Rectangle((267, 184), (974, 696), RED) Perimeter: 2438.000000
+Circle((260, 120), 386.000000, GREEN) Perimeter: 2425.309529
+Circle((248, 109), 386.000000, BLUE) Perimeter: 2425.309529
+Circle((124, 407), 386.000000, ORANGE) Perimeter: 2425.309529
+Circle((924, 22), 385.000000, YELLOW) Perimeter: 2419.026343
+Rectangle((452, 290), (995, 954), BLUE) Perimeter: 2414.000000
+Triangle((42, 40), (137, 746), (824, 671), LIGHT_BLUE) Perimeter: 2408.275562
+Triangle((68, 916), (774, 352), (908, 73), BLUE) Perimeter: 2403.195110
+Rectangle((42, 940), (327, 25), RED) Perimeter: 2400.000000
+Rectangle((765, 524), (10, 969), LIGHT_BLUE) Perimeter: 2400.000000
+Rectangle((63, 481), (959, 179), GREEN) Perimeter: 2396.000000
+Circle((293, 746), 381.000000, BLUE) Perimeter: 2393.893602
+Triangle((410, 45), (903, 255), (124, 862), ORANGE) Perimeter: 2389.043075
+Circle((279, 355), 380.000000, LIGHT_BLUE) Perimeter: 2387.610417
+Rectangle((915, 901), (153, 471), RED) Perimeter: 2384.000000
+Triangle((897, 976), (683, 396), (165, 81), VIOLET) Perimeter: 2380.700086
+Triangle((880, 727), (138, 66), (55, 609), YELLOW) Perimeter: 2376.425699
+Circle((574, 942), 378.000000, ORANGE) Perimeter: 2375.044046
+Circle((783, 791), 378.000000, YELLOW) Perimeter: 2375.044046
+Triangle((45, 176), (394, 773), (955, 826), GREEN) Perimeter: 2373.327583
+Circle((477, 753), 377.000000, YELLOW) Perimeter: 2368.760861
+Triangle((219, 211), (979, 979), (125, 164), RED) Perimeter: 2366.052541
+Rectangle((159, 944), (397, 2), BLUE) Perimeter: 2360.000000
+Triangle((973, 842), (870, 335), (55, 394), YELLOW) Perimeter: 2355.972771
+Circle((819, 291), 374.000000, VIOLET) Perimeter: 2349.911305
+Circle((935, 720), 374.000000, ORANGE) Perimeter: 2349.911305
+Rectangle((127, 39), (390, 948), ORANGE) Perimeter: 2344.000000
+Circle((744, 467), 373.000000, LIGHT_BLUE) Perimeter: 2343.628120
+Circle((468, 857), 371.000000, ORANGE) Perimeter: 2331.061749
+Rectangle((736, 419), (110, 953), RED) Perimeter: 2320.000000
+Circle((413, 211), 369.000000, RED) Perimeter: 2318.495378
+Triangle((847, 65), (19, 830), (59, 873), ORANGE) Perimeter: 2314.660862
+Circle((700, 934), 368.000000, GREEN) Perimeter: 2312.212193
+Circle((400, 172), 368.000000, GREEN) Perimeter: 2312.212193
+Rectangle((540, 966), (861, 134), ORANGE) Perimeter: 2306.000000
+Triangle((982, 166), (376, 192), (288, 885), VIOLET) Perimeter: 2304.420711
+Rectangle((433, 953), (980, 349), ORANGE) Perimeter: 2302.000000
+Triangle((955, 911), (79, 166), (573, 600), BLUE) Perimeter: 2300.112255
+Rectangle((462, 157), (62, 906), LIGHT_BLUE) Perimeter: 2298.000000
+Circle((974, 594), 365.000000, ORANGE) Perimeter: 2293.362637
+Triangle((326, 982), (622, 222), (1, 195), ORANGE) Perimeter: 2288.660223
+Circle((515, 507), 364.000000, LIGHT_BLUE) Perimeter: 2287.079452
+Rectangle((610, 757), (23, 204), YELLOW) Perimeter: 2280.000000
+Rectangle((933, 235), (420, 861), GREEN) Perimeter: 2278.000000
+Triangle((288, 865), (911, 107), (882, 803), GREEN) Perimeter: 2275.000030
+Triangle((775, 54), (82, 862), (126, 953), GREEN) Perimeter: 2274.341002
+Rectangle((990, 606), (248, 217), RED) Perimeter: 2262.000000
+Circle((623, 730), 360.000000, LIGHT_BLUE) Perimeter: 2261.946711
+Triangle((716, 312), (8, 123), (732, 828), GREEN) Perimeter: 2259.585509
+Circle((105, 832), 359.000000, VIOLET) Perimeter: 2255.663525
+Triangle((668, 897), (59, 146), (788, 392), VIOLET) Perimeter: 2255.342034
+Rectangle((57, 48), (430, 800), ORANGE) Perimeter: 2250.000000
+Rectangle((159, 981), (691, 388), YELLOW) Perimeter: 2250.000000
+Rectangle((919, 610), (145, 260), VIOLET) Perimeter: 2248.000000
+Triangle((888, 877), (216, 49), (743, 295), YELLOW) Perimeter: 2247.759934
+Rectangle((8, 574), (827, 271), LIGHT_BLUE) Perimeter: 2244.000000
+Rectangle((668, 301), (154, 902), LIGHT_BLUE) Perimeter: 2230.000000
+Triangle((980, 196), (234, 711), (34, 778), BLUE) Perimeter: 2228.116945
+Triangle((809, 21), (164, 190), (204, 779), ORANGE) Perimeter: 2226.969174
+Triangle((240, 970), (730, 93), (102, 974), ORANGE) Perimeter: 2224.579141
+Triangle((669, 211), (962, 629), (41, 691), ORANGE) Perimeter: 2223.980811
+Rectangle((735, 725), (35, 314), VIOLET) Perimeter: 2222.000000
+Circle((668, 533), 353.000000, GREEN) Perimeter: 2217.964413
+Circle((845, 308), 353.000000, ORANGE) Perimeter: 2217.964413
+Triangle((181, 244), (4, 402), (819, 984), VIOLET) Perimeter: 2215.793726
+Triangle((14, 711), (885, 87), (275, 724), BLUE) Perimeter: 2214.747927
+Circle((734, 527), 352.000000, VIOLET) Perimeter: 2211.681228
+Triangle((286, 592), (1, 966), (907, 376), LIGHT_BLUE) Perimeter: 2208.880184
+Rectangle((233, 990), (351, 6), VIOLET) Perimeter: 2204.000000
+Rectangle((351, 105), (882, 674), RED) Perimeter: 2200.000000
+Triangle((999, 594), (794, 982), (236, 252), GREEN) Perimeter: 2193.806977
+Circle((7, 407), 349.000000, GREEN) Perimeter: 2192.831672
+Rectangle((335, 31), (771, 691), VIOLET) Perimeter: 2192.000000
+Circle((646, 190), 348.000000, ORANGE) Perimeter: 2186.548487
+Triangle((512, 943), (36, 306), (706, 259), LIGHT_BLUE) Perimeter: 2177.827323
+Triangle((391, 95), (913, 483), (833, 998), LIGHT_BLUE) Perimeter: 2176.954651
+Rectangle((943, 142), (278, 565), ORANGE) Perimeter: 2176.000000
+Rectangle((263, 15), (649, 715), VIOLET) Perimeter: 2172.000000
+Rectangle((590, 271), (978, 967), LIGHT_BLUE) Perimeter: 2168.000000
+Triangle((570, 816), (163, 34), (60, 802), ORANGE) Perimeter: 2166.642400
+Rectangle((444, 263), (885, 904), RED) Perimeter: 2164.000000
+Triangle((248, 930), (584, 123), (836, 747), ORANGE) Perimeter: 2162.936438
+Circle((522, 480), 344.000000, RED) Perimeter: 2161.415746
+Triangle((180, 772), (710, 50), (954, 313), ORANGE) Perimeter: 2154.267033
+Triangle((20, 510), (52, 734), (985, 740), GREEN) Perimeter: 2151.324208
+Triangle((927, 428), (237, 554), (85, 51), RED) Perimeter: 2149.421583
+Circle((676, 133), 342.000000, YELLOW) Perimeter: 2148.849375
+Rectangle((177, 856), (414, 21), LIGHT_BLUE) Perimeter: 2144.000000
+Circle((557, 435), 341.000000, RED) Perimeter: 2142.566190
+Circle((537, 641), 341.000000, ORANGE) Perimeter: 2142.566190
+Triangle((119, 94), (827, 839), (580, 823), BLUE) Perimeter: 2137.809207
+Circle((107, 383), 340.000000, GREEN) Perimeter: 2136.283004
+Triangle((56, 440), (561, 38), (121, 927), LIGHT_BLUE) Perimeter: 2128.714602
+Triangle((561, 219), (457, 864), (989, 17), RED) Perimeter: 2126.820879
+Circle((93, 889), 338.000000, BLUE) Perimeter: 2123.716634
+Circle((85, 588), 338.000000, GREEN) Perimeter: 2123.716634
+Rectangle((143, 585), (995, 793), YELLOW) Perimeter: 2120.000000
+Triangle((412, 871), (641, 971), (289, 22), GREEN) Perimeter: 2119.923942
+Rectangle((717, 318), (166, 826), VIOLET) Perimeter: 2118.000000
+Triangle((623, 63), (464, 887), (137, 185), VIOLET) Perimeter: 2114.703353
+Triangle((8, 187), (907, 655), (431, 639), LIGHT_BLUE) Perimeter: 2108.848077
+Triangle((534, 911), (917, 751), (732, 7), GREEN) Perimeter: 2107.162456
+Triangle((248, 231), (24, 685), (690, 980), VIOLET) Perimeter: 2104.355288
+Triangle((642, 878), (101, 302), (881, 410), VIOLET) Perimeter: 2103.162348
+Triangle((346, 165), (983, 997), (658, 558), GREEN) Perimeter: 2095.851990
+Triangle((649, 685), (800, 14), (430, 982), GREEN) Perimeter: 2093.095728
+Rectangle((445, 271), (843, 919), LIGHT_BLUE) Perimeter: 2092.000000
+Triangle((233, 298), (10, 136), (990, 469), ORANGE) Perimeter: 2086.736369
+Triangle((58, 891), (657, 420), (867, 889), VIOLET) Perimeter: 2084.869820
+Rectangle((772, 950), (898, 34), RED) Perimeter: 2084.000000
+Triangle((30, 830), (60, 535), (926, 654), YELLOW) Perimeter: 2083.781478
+Triangle((519, 41), (720, 922), (436, 933), RED) Perimeter: 2083.704375
+Rectangle((968, 546), (368, 986), GREEN) Perimeter: 2080.000000
+Circle((418, 29), 331.000000, ORANGE) Perimeter: 2079.734337
+Triangle((604, 56), (445, 892), (83, 435), VIOLET) Perimeter: 2078.257907
+Triangle((771, 788), (723, 985), (153, 174), ORANGE) Perimeter: 2065.195970
+Triangle((987, 480), (91, 202), (714, 682), VIOLET) Perimeter: 2064.209723
+Rectangle((491, 379), (44, 963), VIOLET) Perimeter: 2062.000000
+Triangle((855, 131), (864, 821), (385, 64), VIOLET) Perimeter: 2060.628269
+Triangle((495, 40), (576, 839), (993, 262), GREEN) Perimeter: 2060.248004
+Rectangle((853, 315), (33, 106), YELLOW) Perimeter: 2058.000000
+Triangle((36, 883), (507, 533), (980, 565), LIGHT_BLUE) Perimeter: 2057.009459
+Triangle((697, 797), (72, 742), (156, 160), GREEN) Perimeter: 2051.179155
+Triangle((992, 629), (55, 731), (401, 972), YELLOW) Perimeter: 2047.517990
+Rectangle((864, 896), (206, 531), LIGHT_BLUE) Perimeter: 2046.000000
+Triangle((422, 42), (136, 992), (66, 656), YELLOW) Perimeter: 2045.071945
+Triangle((78, 128), (879, 758), (707, 668), BLUE) Perimeter: 2042.192364
+Triangle((697, 143), (10, 572), (588, 756), LIGHT_BLUE) Perimeter: 2039.140474
+Triangle((443, 776), (565, 997), (348, 9), YELLOW) Perimeter: 2036.848831
+Triangle((526, 462), (713, 941), (67, 192), YELLOW) Perimeter: 2035.830453
+Rectangle((891, 339), (163, 626), BLUE) Perimeter: 2030.000000
+Rectangle((17, 37), (518, 551), GREEN) Perimeter: 2030.000000
+Rectangle((217, 378), (923, 685), GREEN) Perimeter: 2026.000000
+Circle((226, 783), 322.000000, BLUE) Perimeter: 2023.185669
+Rectangle((786, 387), (223, 835), ORANGE) Perimeter: 2022.000000
+Triangle((53, 732), (911, 221), (331, 456), ORANGE) Perimeter: 2016.180775
+Rectangle((403, 189), (176, 970), RED) Perimeter: 2016.000000
+Rectangle((510, 192), (116, 805), GREEN) Perimeter: 2014.000000
+Triangle((214, 123), (921, 588), (656, 812), LIGHT_BLUE) Perimeter: 2011.787227
+Circle((958, 85), 320.000000, ORANGE) Perimeter: 2010.619298
+Triangle((221, 413), (483, 921), (990, 938), VIOLET) Perimeter: 2009.989524
+Rectangle((256, 266), (741, 785), RED) Perimeter: 2008.000000
+Rectangle((651, 150), (870, 932), RED) Perimeter: 2002.000000
+Triangle((884, 813), (894, 707), (172, 147), LIGHT_BLUE) Perimeter: 1995.126418
+Triangle((630, 972), (789, 260), (196, 782), VIOLET) Perimeter: 1993.326286
+Rectangle((875, 310), (32, 463), LIGHT_BLUE) Perimeter: 1992.000000
+Circle((713, 946), 317.000000, RED) Perimeter: 1991.769742
+Rectangle((119, 654), (827, 368), RED) Perimeter: 1988.000000
+Triangle((831, 480), (153, 57), (885, 29), GREEN) Perimeter: 1985.889290
+Triangle((181, 702), (947, 383), (632, 125), LIGHT_BLUE) Perimeter: 1969.286746
+Triangle((736, 235), (152, 300), (807, 790), VIOLET) Perimeter: 1965.129783
+Rectangle((479, 817), (201, 113), GREEN) Perimeter: 1964.000000
+Circle((599, 522), 312.000000, YELLOW) Perimeter: 1960.353816
+Rectangle((169, 463), (918, 233), YELLOW) Perimeter: 1958.000000
+Rectangle((733, 986), (330, 412), GREEN) Perimeter: 1954.000000
+Triangle((792, 218), (27, 660), (29, 368), VIOLET) Perimeter: 1953.120984
+Triangle((788, 899), (77, 922), (503, 406), VIOLET) Perimeter: 1949.950317
+Circle((102, 925), 310.000000, ORANGE) Perimeter: 1947.787445
+Circle((688, 872), 310.000000, YELLOW) Perimeter: 1947.787445
+Triangle((311, 824), (867, 205), (164, 506), BLUE) Perimeter: 1947.105278
+Circle((231, 534), 309.000000, YELLOW) Perimeter: 1941.504260
+Triangle((183, 828), (701, 712), (698, 152), GREEN) Perimeter: 1940.661675
+Rectangle((894, 993), (688, 229), VIOLET) Perimeter: 1940.000000
+Rectangle((830, 65), (970, 895), BLUE) Perimeter: 1940.000000
+Triangle((60, 645), (750, 201), (252, 72), RED) Perimeter: 1939.258188
+Rectangle((49, 509), (729, 224), RED) Perimeter: 1930.000000
+Triangle((701, 821), (414, 10), (903, 570), LIGHT_BLUE) Perimeter: 1925.924753
+Triangle((880, 673), (336, 453), (46, 205), LIGHT_BLUE) Perimeter: 1924.719182
+Rectangle((465, 875), (258, 120), YELLOW) Perimeter: 1924.000000
+Triangle((910, 309), (835, 504), (99, 61), GREEN) Perimeter: 1916.034417
+Triangle((617, 757), (583, 971), (858, 57), ORANGE) Perimeter: 1911.483231
+Circle((679, 313), 304.000000, RED) Perimeter: 1910.088333
+Triangle((964, 97), (130, 188), (539, 477), BLUE) Perimeter: 1909.860935
+Rectangle((896, 70), (298, 426), BLUE) Perimeter: 1908.000000
+Triangle((23, 385), (779, 74), (83, 2), BLUE) Perimeter: 1904.855357
+Triangle((917, 354), (103, 828), (176, 707), RED) Perimeter: 1904.052625
+Triangle((487, 397), (511, 970), (71, 214), VIOLET) Perimeter: 1902.695146
+Rectangle((336, 126), (936, 476), VIOLET) Perimeter: 1900.000000
+Rectangle((311, 836), (571, 146), LIGHT_BLUE) Perimeter: 1900.000000
+Rectangle((284, 763), (764, 293), LIGHT_BLUE) Perimeter: 1900.000000
+Rectangle((818, 844), (224, 489), GREEN) Perimeter: 1898.000000
+Rectangle((463, 279), (842, 848), LIGHT_BLUE) Perimeter: 1896.000000
+Triangle((694, 362), (582, 0), (162, 749), YELLOW) Perimeter: 1895.520681
+Rectangle((642, 912), (607, 7), ORANGE) Perimeter: 1880.000000
+Rectangle((596, 361), (983, 914), YELLOW) Perimeter: 1880.000000
+Circle((349, 447), 299.000000, RED) Perimeter: 1878.672407
+Triangle((437, 449), (769, 36), (385, 872), LIGHT_BLUE) Perimeter: 1876.057192
+Rectangle((279, 122), (60, 841), BLUE) Perimeter: 1876.000000
+Circle((384, 392), 298.000000, GREEN) Perimeter: 1872.389222
+Triangle((218, 959), (100, 830), (922, 533), BLUE) Perimeter: 1871.694215
+Triangle((224, 986), (79, 838), (127, 84), YELLOW) Perimeter: 1869.920093
+Triangle((166, 782), (665, 945), (649, 290), RED) Perimeter: 1869.601490
+Triangle((499, 151), (378, 933), (162, 940), LIGHT_BLUE) Perimeter: 1865.376154
+Rectangle((612, 267), (370, 957), BLUE) Perimeter: 1864.000000
+Triangle((217, 927), (911, 331), (516, 820), YELLOW) Perimeter: 1860.971437
+Rectangle((743, 920), (791, 38), RED) Perimeter: 1860.000000
+Circle((576, 438), 296.000000, LIGHT_BLUE) Perimeter: 1859.822851
+Triangle((247, 560), (433, 104), (950, 510), ORANGE) Perimeter: 1854.613384
+Rectangle((305, 184), (961, 454), RED) Perimeter: 1852.000000
+Circle((69, 618), 294.000000, LIGHT_BLUE) Perimeter: 1847.256480
+Rectangle((74, 328), (856, 189), VIOLET) Perimeter: 1842.000000
+Triangle((588, 483), (938, 564), (202, 986), YELLOW) Perimeter: 1841.687743
+Triangle((418, 754), (788, 497), (0, 342), RED) Perimeter: 1840.512196
+Triangle((282, 233), (625, 902), (48, 601), ORANGE) Perimeter: 1838.692641
+Circle((308, 375), 292.000000, ORANGE) Perimeter: 1834.690110
+Rectangle((983, 685), (260, 879), ORANGE) Perimeter: 1834.000000
+Triangle((829, 744), (205, 442), (66, 254), RED) Perimeter: 1833.834744
+Rectangle((936, 886), (890, 16), BLUE) Perimeter: 1832.000000
+Rectangle((60, 719), (303, 47), ORANGE) Perimeter: 1830.000000
+Circle((860, 275), 291.000000, LIGHT_BLUE) Perimeter: 1828.406924
+Triangle((183, 5), (368, 124), (730, 725), RED) Perimeter: 1825.787260
+Triangle((913, 222), (740, 649), (222, 220), BLUE) Perimeter: 1824.298407
+Triangle((949, 542), (269, 405), (288, 818), LIGHT_BLUE) Perimeter: 1823.408173
+Triangle((957, 242), (70, 442), (322, 343), BLUE) Perimeter: 1822.999463
+Triangle((735, 117), (311, 206), (755, 779), ORANGE) Perimeter: 1820.431811
+Rectangle((603, 544), (124, 975), ORANGE) Perimeter: 1820.000000
+Triangle((188, 144), (620, 504), (928, 664), ORANGE) Perimeter: 1813.850743
+Triangle((647, 59), (349, 888), (529, 103), RED) Perimeter: 1812.243240
+Circle((55, 475), 288.000000, BLUE) Perimeter: 1809.557368
+Triangle((335, 53), (387, 266), (718, 865), GREEN) Perimeter: 1801.418748
+Triangle((147, 268), (413, 504), (869, 7), BLUE) Perimeter: 1797.824173
+Circle((713, 702), 286.000000, GREEN) Perimeter: 1796.990998
+Rectangle((908, 601), (326, 917), RED) Perimeter: 1796.000000
+Triangle((959, 836), (593, 223), (719, 27), YELLOW) Perimeter: 1790.805636
+Rectangle((708, 745), (381, 178), VIOLET) Perimeter: 1788.000000
+Rectangle((906, 421), (518, 925), RED) Perimeter: 1784.000000
+Rectangle((162, 582), (494, 22), BLUE) Perimeter: 1784.000000
+Triangle((897, 11), (985, 892), (857, 266), LIGHT_BLUE) Perimeter: 1782.454555
+Rectangle((645, 960), (387, 327), LIGHT_BLUE) Perimeter: 1782.000000
+Rectangle((449, 444), (788, 995), RED) Perimeter: 1780.000000
+Circle((526, 281), 283.000000, LIGHT_BLUE) Perimeter: 1778.141442
+Triangle((52, 816), (393, 636), (697, 222), YELLOW) Perimeter: 1776.065269
+Triangle((453, 137), (837, 260), (24, 458), ORANGE) Perimeter: 1775.782047
+Triangle((793, 174), (908, 989), (631, 705), RED) Perimeter: 1774.953431
+Triangle((537, 705), (186, 48), (188, 727), VIOLET) Perimeter: 1773.578209
+Circle((117, 522), 282.000000, GREEN) Perimeter: 1771.858257
+Triangle((662, 253), (763, 617), (83, 186), RED) Perimeter: 1765.700653
+Rectangle((880, 549), (386, 162), YELLOW) Perimeter: 1762.000000
+Circle((161, 601), 280.000000, ORANGE) Perimeter: 1759.291886
+Triangle((177, 98), (131, 512), (748, 52), VIOLET) Perimeter: 1759.000754
+Triangle((44, 376), (450, 969), (539, 435), BLUE) Perimeter: 1758.538535
+Triangle((792, 74), (462, 774), (837, 666), RED) Perimeter: 1757.836370
+Triangle((741, 771), (193, 85), (622, 637), VIOLET) Perimeter: 1756.324273
+Triangle((843, 512), (857, 298), (103, 251), GREEN) Perimeter: 1754.599804
+Triangle((586, 992), (804, 169), (797, 746), LIGHT_BLUE) Perimeter: 1752.519574
+Rectangle((319, 160), (274, 991), RED) Perimeter: 1752.000000
+Triangle((21, 801), (8, 226), (519, 440), LIGHT_BLUE) Perimeter: 1744.229136
+Circle((612, 683), 277.000000, VIOLET) Perimeter: 1740.442330
+Circle((805, 612), 277.000000, VIOLET) Perimeter: 1740.442330
+Rectangle((634, 685), (360, 90), LIGHT_BLUE) Perimeter: 1738.000000
+Rectangle((578, 514), (183, 41), LIGHT_BLUE) Perimeter: 1736.000000
+Triangle((544, 43), (223, 707), (497, 759), LIGHT_BLUE) Perimeter: 1733.952446
+Triangle((994, 511), (203, 789), (994, 586), BLUE) Perimeter: 1730.063413
+Rectangle((986, 905), (534, 492), RED) Perimeter: 1730.000000
+Triangle((60, 521), (771, 511), (294, 870), RED) Perimeter: 1728.258021
+Rectangle((917, 620), (340, 333), BLUE) Perimeter: 1728.000000
+Triangle((101, 547), (762, 136), (310, 98), LIGHT_BLUE) Perimeter: 1727.212590
+Triangle((698, 443), (38, 558), (851, 629), GREEN) Perimeter: 1726.880657
+Rectangle((517, 979), (361, 272), BLUE) Perimeter: 1726.000000
+Circle((394, 119), 274.000000, LIGHT_BLUE) Perimeter: 1721.592774
+Rectangle((422, 633), (88, 108), VIOLET) Perimeter: 1718.000000
+Rectangle((680, 515), (65, 272), RED) Perimeter: 1716.000000
+Triangle((22, 765), (296, 971), (770, 596), YELLOW) Perimeter: 1714.055553
+Triangle((937, 867), (397, 526), (159, 578), LIGHT_BLUE) Perimeter: 1712.212838
+Rectangle((774, 65), (792, 903), GREEN) Perimeter: 1712.000000
+Triangle((891, 304), (281, 345), (552, 782), RED) Perimeter: 1711.592124
+Triangle((203, 379), (567, 802), (842, 934), ORANGE) Perimeter: 1709.466257
+Circle((876, 646), 272.000000, RED) Perimeter: 1709.026404
+Rectangle((270, 86), (623, 587), VIOLET) Perimeter: 1708.000000
+Rectangle((774, 815), (860, 48), LIGHT_BLUE) Perimeter: 1706.000000
+Rectangle((879, 458), (285, 199), BLUE) Perimeter: 1706.000000
+Triangle((280, 914), (828, 453), (987, 483), BLUE) Perimeter: 1705.939146
+Triangle((727, 855), (799, 827), (143, 316), GREEN) Perimeter: 1703.509955
+Rectangle((220, 739), (801, 471), YELLOW) Perimeter: 1698.000000
+Rectangle((815, 34), (496, 564), YELLOW) Perimeter: 1698.000000
+Triangle((677, 530), (399, 64), (113, 577), LIGHT_BLUE) Perimeter: 1695.915415
+Triangle((985, 320), (204, 287), (229, 434), BLUE) Perimeter: 1695.354494
+Triangle((840, 268), (104, 379), (901, 405), VIOLET) Perimeter: 1691.713823
+Circle((349, 169), 269.000000, YELLOW) Perimeter: 1690.176848
+Rectangle((386, 520), (826, 924), GREEN) Perimeter: 1688.000000
+Triangle((957, 471), (788, 293), (232, 692), YELLOW) Perimeter: 1687.735440
+Triangle((920, 78), (332, 388), (701, 621), VIOLET) Perimeter: 1686.619033
+Triangle((93, 424), (159, 154), (490, 883), YELLOW) Perimeter: 1685.444655
+Triangle((245, 703), (546, 42), (603, 630), ORANGE) Perimeter: 1682.430331
+Triangle((567, 576), (47, 135), (624, 157), YELLOW) Perimeter: 1682.100397
+Triangle((843, 910), (782, 545), (957, 92), YELLOW) Perimeter: 1681.595150
+Rectangle((89, 17), (462, 484), YELLOW) Perimeter: 1680.000000
+Triangle((635, 179), (972, 302), (183, 435), ORANGE) Perimeter: 1678.337533
+Circle((2, 869), 267.000000, GREEN) Perimeter: 1677.610477
+Rectangle((766, 486), (432, 990), YELLOW) Perimeter: 1676.000000
+Triangle((181, 605), (688, 422), (851, 146), RED) Perimeter: 1671.700302
+Circle((266, 382), 266.000000, VIOLET) Perimeter: 1671.327292
+Triangle((70, 719), (740, 380), (169, 861), BLUE) Perimeter: 1670.577763
+Rectangle((207, 891), (226, 75), GREEN) Perimeter: 1670.000000
+Triangle((79, 994), (159, 164), (71, 889), YELLOW) Perimeter: 1669.471992
+Triangle((501, 918), (282, 951), (258, 232), RED) Perimeter: 1668.639924
+Triangle((357, 668), (27, 962), (653, 411), YELLOW) Perimeter: 1667.922237
+Triangle((774, 887), (117, 380), (738, 819), LIGHT_BLUE) Perimeter: 1667.320991
+Circle((636, 169), 265.000000, BLUE) Perimeter: 1665.044106
+Rectangle((598, 302), (77, 612), LIGHT_BLUE) Perimeter: 1662.000000
+Rectangle((789, 572), (145, 386), GREEN) Perimeter: 1660.000000
+Rectangle((835, 251), (220, 465), GREEN) Perimeter: 1658.000000
+Triangle((193, 741), (717, 812), (659, 317), VIOLET) Perimeter: 1657.200030
+Rectangle((606, 126), (695, 863), RED) Perimeter: 1652.000000
+Rectangle((694, 358), (110, 599), RED) Perimeter: 1650.000000
+Triangle((907, 757), (489, 658), (95, 618), RED) Perimeter: 1649.400249
+Triangle((918, 325), (606, 84), (155, 261), YELLOW) Perimeter: 1644.408634
+Triangle((774, 940), (149, 631), (97, 502), RED) Perimeter: 1642.632385
+Triangle((848, 165), (423, 55), (42, 161), BLUE) Perimeter: 1640.485087
+Circle((534, 728), 261.000000, YELLOW) Perimeter: 1639.911365
+Triangle((115, 414), (716, 806), (0, 490), RED) Perimeter: 1638.016513
+Rectangle((699, 281), (808, 991), BLUE) Perimeter: 1638.000000
+Rectangle((470, 797), (840, 349), VIOLET) Perimeter: 1636.000000
+Circle((801, 67), 260.000000, LIGHT_BLUE) Perimeter: 1633.628180
+Triangle((347, 313), (290, 178), (13, 921), BLUE) Perimeter: 1633.195552
+Rectangle((204, 419), (652, 787), YELLOW) Perimeter: 1632.000000
+Rectangle((4, 234), (754, 173), ORANGE) Perimeter: 1622.000000
+Circle((273, 443), 258.000000, ORANGE) Perimeter: 1621.061809
+Triangle((709, 743), (670, 392), (368, 27), ORANGE) Perimeter: 1619.954884
+Triangle((586, 568), (937, 552), (510, 3), RED) Perimeter: 1616.960082
+Triangle((776, 277), (520, 646), (312, 937), GREEN) Perimeter: 1613.582154
+Rectangle((77, 851), (815, 919), YELLOW) Perimeter: 1612.000000
+Rectangle((21, 242), (325, 743), RED) Perimeter: 1610.000000
+Triangle((918, 261), (139, 327), (594, 423), GREEN) Perimeter: 1609.051109
+Triangle((135, 731), (836, 350), (197, 644), LIGHT_BLUE) Perimeter: 1608.069650
+Rectangle((232, 634), (54, 8), GREEN) Perimeter: 1608.000000
+Rectangle((911, 836), (966, 87), BLUE) Perimeter: 1608.000000
+Triangle((843, 850), (514, 154), (891, 621), YELLOW) Perimeter: 1604.000325
+Triangle((398, 206), (975, 298), (568, 653), BLUE) Perimeter: 1602.592268
+Triangle((664, 522), (100, 33), (387, 28), BLUE) Perimeter: 1599.874434
+Triangle((554, 56), (813, 95), (16, 81), ORANGE) Perimeter: 1597.623328
+Triangle((37, 791), (169, 106), (364, 186), RED) Perimeter: 1596.091223
+Triangle((273, 331), (49, 45), (758, 270), YELLOW) Perimeter: 1595.945951
+Triangle((275, 15), (388, 764), (153, 392), YELLOW) Perimeter: 1593.734959
+Triangle((623, 901), (858, 926), (68, 833), LIGHT_BLUE) Perimeter: 1590.931510
+Triangle((192, 364), (93, 551), (759, 744), VIOLET) Perimeter: 1587.550883
+Triangle((460, 2), (985, 577), (581, 282), YELLOW) Perimeter: 1583.887745
+Triangle((3, 798), (581, 758), (792, 748), VIOLET) Perimeter: 1581.201960
+Rectangle((379, 212), (27, 650), ORANGE) Perimeter: 1580.000000
+Triangle((244, 207), (472, 503), (148, 896), ORANGE) Perimeter: 1578.624445
+Triangle((537, 202), (485, 698), (397, 976), RED) Perimeter: 1576.873565
+Rectangle((621, 938), (689, 218), BLUE) Perimeter: 1576.000000
+Triangle((73, 950), (90, 833), (588, 369), VIOLET) Perimeter: 1575.282977
+Triangle((673, 731), (102, 668), (817, 921), RED) Perimeter: 1571.309812
+Triangle((617, 880), (764, 845), (598, 164), YELLOW) Perimeter: 1568.301366
+Rectangle((446, 914), (575, 259), VIOLET) Perimeter: 1568.000000
+Rectangle((459, 68), (536, 775), LIGHT_BLUE) Perimeter: 1568.000000
+Triangle((77, 22), (704, 84), (461, 397), LIGHT_BLUE) Perimeter: 1563.044679
+Triangle((469, 418), (966, 890), (716, 977), RED) Perimeter: 1561.258252
+Rectangle((785, 517), (486, 36), VIOLET) Perimeter: 1560.000000
+Circle((359, 995), 248.000000, LIGHT_BLUE) Perimeter: 1558.229956
+Triangle((461, 774), (695, 286), (876, 850), VIOLET) Perimeter: 1555.435845
+Rectangle((289, 282), (821, 525), BLUE) Perimeter: 1550.000000
+Rectangle((792, 94), (422, 498), YELLOW) Perimeter: 1548.000000
+Triangle((707, 806), (660, 652), (969, 100), YELLOW) Perimeter: 1546.661336
+Triangle((721, 839), (895, 387), (365, 851), YELLOW) Perimeter: 1544.948596
+Triangle((196, 904), (613, 806), (471, 340), VIOLET) Perimeter: 1542.987747
+Triangle((701, 919), (23, 921), (700, 753), RED) Perimeter: 1541.539474
+Rectangle((215, 635), (713, 363), BLUE) Perimeter: 1540.000000
+Circle((47, 816), 245.000000, GREEN) Perimeter: 1539.380400
+Circle((863, 467), 245.000000, BLUE) Perimeter: 1539.380400
+Rectangle((229, 343), (955, 301), ORANGE) Perimeter: 1536.000000
+Rectangle((199, 687), (446, 167), GREEN) Perimeter: 1534.000000
+Rectangle((644, 392), (961, 841), ORANGE) Perimeter: 1532.000000
+Rectangle((22, 612), (404, 231), ORANGE) Perimeter: 1526.000000
+Rectangle((453, 404), (54, 767), LIGHT_BLUE) Perimeter: 1524.000000
+Rectangle((410, 912), (833, 575), ORANGE) Perimeter: 1520.000000
+Triangle((611, 408), (824, 249), (141, 111), ORANGE) Perimeter: 1518.578377
+Rectangle((178, 360), (661, 635), VIOLET) Perimeter: 1516.000000
+Triangle((330, 401), (726, 334), (726, 849), GREEN) Perimeter: 1514.557699
+Triangle((670, 664), (182, 161), (550, 727), RED) Perimeter: 1511.470177
+Circle((387, 341), 240.000000, VIOLET) Perimeter: 1507.964474
+Triangle((501, 55), (260, 619), (458, 721), GREEN) Perimeter: 1503.447928
+Rectangle((299, 591), (782, 331), YELLOW) Perimeter: 1486.000000
+Rectangle((97, 749), (813, 773), VIOLET) Perimeter: 1480.000000
+Rectangle((84, 452), (454, 821), BLUE) Perimeter: 1478.000000
+Rectangle((791, 295), (169, 412), VIOLET) Perimeter: 1478.000000
+Rectangle((930, 707), (206, 692), RED) Perimeter: 1478.000000
+Circle((40, 941), 235.000000, YELLOW) Perimeter: 1476.548547
+Circle((303, 554), 235.000000, GREEN) Perimeter: 1476.548547
+Rectangle((967, 464), (391, 625), GREEN) Perimeter: 1474.000000
+Triangle((614, 818), (909, 447), (332, 507), RED) Perimeter: 1473.916083
+Triangle((719, 402), (212, 333), (882, 578), RED) Perimeter: 1464.948909
+Triangle((511, 221), (801, 851), (508, 615), ORANGE) Perimeter: 1463.777723
+Triangle((664, 596), (30, 456), (389, 780), GREEN) Perimeter: 1463.740206
+Rectangle((229, 431), (947, 419), GREEN) Perimeter: 1460.000000
+Rectangle((956, 532), (543, 848), BLUE) Perimeter: 1458.000000
+Rectangle((855, 109), (312, 295), ORANGE) Perimeter: 1458.000000
+Circle((80, 5), 232.000000, BLUE) Perimeter: 1457.698991
+Triangle((696, 87), (766, 676), (967, 123), RED) Perimeter: 1454.921820
+Rectangle((28, 324), (583, 496), VIOLET) Perimeter: 1454.000000
+Triangle((512, 925), (300, 834), (964, 645), RED) Perimeter: 1452.779139
+Rectangle((747, 553), (952, 32), GREEN) Perimeter: 1452.000000
+Triangle((156, 659), (147, 653), (688, 175), GREEN) Perimeter: 1451.956041
+Triangle((725, 878), (84, 543), (467, 779), BLUE) Perimeter: 1449.475056
+Triangle((55, 945), (419, 324), (159, 669), RED) Perimeter: 1446.762558
+Triangle((793, 28), (476, 541), (372, 608), LIGHT_BLUE) Perimeter: 1443.441526
+Rectangle((631, 248), (902, 697), LIGHT_BLUE) Perimeter: 1440.000000
+Circle((104, 749), 229.000000, BLUE) Perimeter: 1438.849435
+Triangle((864, 9), (758, 306), (271, 186), VIOLET) Perimeter: 1435.767722
+Triangle((562, 3), (573, 264), (476, 712), YELLOW) Perimeter: 1433.809296
+Rectangle((906, 354), (526, 690), LIGHT_BLUE) Perimeter: 1432.000000
+Triangle((592, 671), (443, 786), (41, 344), BLUE) Perimeter: 1426.412100
+Circle((650, 757), 227.000000, ORANGE) Perimeter: 1426.283065
+Rectangle((927, 566), (216, 564), VIOLET) Perimeter: 1426.000000
+Rectangle((707, 139), (657, 802), LIGHT_BLUE) Perimeter: 1426.000000
+Triangle((908, 733), (308, 670), (600, 423), RED) Perimeter: 1422.749246
+Rectangle((40, 425), (339, 837), BLUE) Perimeter: 1422.000000
+Rectangle((12, 556), (672, 606), BLUE) Perimeter: 1420.000000
+Rectangle((388, 909), (141, 446), VIOLET) Perimeter: 1420.000000
+Circle((675, 467), 226.000000, ORANGE) Perimeter: 1419.999879
+Circle((706, 64), 226.000000, LIGHT_BLUE) Perimeter: 1419.999879
+Rectangle((841, 966), (501, 599), RED) Perimeter: 1414.000000
+Rectangle((879, 44), (215, 84), BLUE) Perimeter: 1408.000000
+Circle((33, 866), 224.000000, VIOLET) Perimeter: 1407.433509
+Triangle((250, 295), (167, 731), (450, 105), VIOLET) Perimeter: 1406.689296
+Rectangle((242, 168), (209, 838), LIGHT_BLUE) Perimeter: 1406.000000
+Triangle((314, 485), (72, 782), (674, 681), VIOLET) Perimeter: 1403.420987
+Triangle((828, 289), (595, 810), (433, 829), ORANGE) Perimeter: 1402.885829
+Rectangle((39, 735), (681, 794), VIOLET) Perimeter: 1402.000000
+Rectangle((623, 289), (398, 764), VIOLET) Perimeter: 1400.000000
+Rectangle((93, 378), (409, 761), ORANGE) Perimeter: 1398.000000
+Circle((592, 884), 222.000000, ORANGE) Perimeter: 1394.867138
+Rectangle((563, 778), (142, 502), BLUE) Perimeter: 1394.000000
+Rectangle((703, 56), (889, 565), ORANGE) Perimeter: 1390.000000
+Rectangle((96, 878), (714, 801), LIGHT_BLUE) Perimeter: 1390.000000
+Rectangle((280, 433), (755, 214), VIOLET) Perimeter: 1388.000000
+Triangle((749, 436), (535, 900), (304, 555), YELLOW) Perimeter: 1386.802070
+Triangle((745, 921), (572, 251), (625, 553), VIOLET) Perimeter: 1385.661158
+Triangle((723, 447), (854, 702), (411, 949), GREEN) Perimeter: 1384.943761
+Circle((845, 823), 220.000000, BLUE) Perimeter: 1382.300768
+Triangle((1, 512), (183, 706), (543, 935), YELLOW) Perimeter: 1380.196876
+Rectangle((293, 232), (777, 26), BLUE) Perimeter: 1380.000000
+Rectangle((11, 741), (440, 480), GREEN) Perimeter: 1380.000000
+Circle((169, 431), 219.000000, VIOLET) Perimeter: 1376.017582
+Triangle((290, 781), (99, 133), (77, 343), YELLOW) Perimeter: 1373.757137
+Triangle((252, 249), (270, 616), (676, 207), BLUE) Perimeter: 1369.812193
+Circle((326, 277), 217.000000, VIOLET) Perimeter: 1363.451212
+Triangle((686, 52), (872, 15), (219, 199), RED) Perimeter: 1357.662359
+Circle((522, 466), 216.000000, RED) Perimeter: 1357.168026
+Triangle((721, 80), (709, 758), (720, 354), LIGHT_BLUE) Perimeter: 1356.257736
+Rectangle((532, 597), (79, 822), GREEN) Perimeter: 1356.000000
+Triangle((886, 761), (776, 543), (637, 133), LIGHT_BLUE) Perimeter: 1352.664461
+Rectangle((964, 418), (407, 536), GREEN) Perimeter: 1350.000000
+Triangle((323, 492), (767, 800), (744, 419), LIGHT_BLUE) Perimeter: 1349.345946
+Circle((736, 865), 214.000000, ORANGE) Perimeter: 1344.601656
+Triangle((302, 363), (813, 631), (683, 782), GREEN) Perimeter: 1342.588192
+Rectangle((312, 280), (577, 685), RED) Perimeter: 1340.000000
+Triangle((834, 103), (764, 575), (661, 744), RED) Perimeter: 1339.011807
+Rectangle((950, 304), (315, 337), BLUE) Perimeter: 1336.000000
+Triangle((425, 346), (510, 505), (109, 870), ORANGE) Perimeter: 1334.444337
+Triangle((507, 38), (251, 652), (395, 246), YELLOW) Perimeter: 1332.248643
+Triangle((533, 200), (759, 638), (751, 818), ORANGE) Perimeter: 1328.369662
+Circle((709, 577), 211.000000, ORANGE) Perimeter: 1325.752100
+Rectangle((380, 979), (601, 538), YELLOW) Perimeter: 1324.000000
+Rectangle((575, 822), (264, 472), RED) Perimeter: 1322.000000
+Rectangle((29, 11), (139, 562), YELLOW) Perimeter: 1322.000000
+Triangle((876, 593), (628, 74), (814, 682), YELLOW) Perimeter: 1319.489681
+Circle((775, 664), 210.000000, LIGHT_BLUE) Perimeter: 1319.468915
+Triangle((199, 655), (562, 996), (50, 912), RED) Perimeter: 1313.960069
+Rectangle((332, 367), (152, 841), ORANGE) Perimeter: 1308.000000
+Triangle((494, 124), (257, 34), (435, 590), YELLOW) Perimeter: 1307.031353
+Triangle((711, 797), (854, 476), (856, 168), RED) Perimeter: 1304.914641
+Triangle((736, 824), (545, 448), (250, 679), BLUE) Perimeter: 1303.581752
+Triangle((601, 169), (586, 568), (208, 234), YELLOW) Perimeter: 1302.041366
+Triangle((826, 236), (555, 247), (821, 719), LIGHT_BLUE) Perimeter: 1296.042353
+Circle((13, 323), 206.000000, LIGHT_BLUE) Perimeter: 1294.336173
+Circle((998, 42), 206.000000, GREEN) Perimeter: 1294.336173
+Rectangle((841, 607), (322, 733), VIOLET) Perimeter: 1290.000000
+Triangle((606, 584), (986, 627), (483, 896), BLUE) Perimeter: 1288.207233
+Rectangle((66, 783), (602, 891), RED) Perimeter: 1288.000000
+Triangle((758, 337), (142, 208), (283, 157), VIOLET) Perimeter: 1287.263976
+Rectangle((160, 41), (712, 132), LIGHT_BLUE) Perimeter: 1286.000000
+Triangle((956, 404), (488, 82), (625, 440), BLUE) Perimeter: 1284.344293
+Triangle((245, 698), (616, 744), (27, 904), BLUE) Perimeter: 1284.119186
+Rectangle((110, 637), (76, 29), YELLOW) Perimeter: 1284.000000
+Triangle((381, 768), (984, 597), (436, 809), BLUE) Perimeter: 1282.955844
+Triangle((413, 786), (907, 664), (949, 504), YELLOW) Perimeter: 1279.919166
+Triangle((280, 255), (308, 189), (253, 824), RED) Perimeter: 1278.711470
+Rectangle((204, 333), (749, 239), GREEN) Perimeter: 1278.000000
+Triangle((626, 186), (458, 711), (293, 500), BLUE) Perimeter: 1276.774751
+Triangle((799, 767), (325, 604), (450, 959), GREEN) Perimeter: 1275.935394
+Triangle((460, 440), (919, 743), (970, 817), ORANGE) Perimeter: 1274.078304
+Rectangle((651, 230), (236, 452), ORANGE) Perimeter: 1274.000000
+Triangle((140, 509), (429, 534), (237, 988), YELLOW) Perimeter: 1271.732140
+Triangle((66, 398), (628, 277), (176, 191), VIOLET) Perimeter: 1269.398961
+Triangle((21, 250), (148, 835), (239, 591), BLUE) Perimeter: 1263.772039
+Circle((424, 368), 201.000000, BLUE) Perimeter: 1262.920247
+Circle((831, 342), 201.000000, VIOLET) Perimeter: 1262.920247
+Circle((809, 676), 201.000000, VIOLET) Perimeter: 1262.920247
+Rectangle((801, 249), (858, 822), ORANGE) Perimeter: 1260.000000
+Triangle((939, 675), (512, 833), (500, 505), GREEN) Perimeter: 1254.280245
+Triangle((153, 456), (499, 438), (614, 121), ORANGE) Perimeter: 1253.547853
+Rectangle((637, 724), (123, 836), VIOLET) Perimeter: 1252.000000
+Rectangle((524, 398), (11, 285), ORANGE) Perimeter: 1252.000000
+Circle((17, 630), 199.000000, LIGHT_BLUE) Perimeter: 1250.353876
+Triangle((461, 92), (287, 678), (338, 236), ORANGE) Perimeter: 1245.600315
+Circle((319, 397), 198.000000, BLUE) Perimeter: 1244.070691
+Triangle((464, 426), (197, 970), (435, 705), ORANGE) Perimeter: 1242.680792
+Rectangle((237, 155), (667, 345), RED) Perimeter: 1240.000000
+Rectangle((134, 98), (514, 338), GREEN) Perimeter: 1240.000000
+Rectangle((477, 401), (730, 35), ORANGE) Perimeter: 1238.000000
+Rectangle((605, 630), (584, 32), LIGHT_BLUE) Perimeter: 1238.000000
+Rectangle((278, 404), (649, 650), RED) Perimeter: 1234.000000
+Rectangle((644, 624), (988, 897), RED) Perimeter: 1234.000000
+Triangle((946, 622), (470, 266), (445, 294), ORANGE) Perimeter: 1230.756859
+Rectangle((43, 595), (538, 715), GREEN) Perimeter: 1230.000000
+Triangle((259, 690), (478, 240), (544, 675), LIGHT_BLUE) Perimeter: 1225.833660
+Rectangle((869, 516), (431, 690), RED) Perimeter: 1224.000000
+Triangle((622, 382), (970, 437), (863, 805), VIOLET) Perimeter: 1222.396319
+Rectangle((690, 720), (567, 235), GREEN) Perimeter: 1216.000000
+Triangle((250, 619), (306, 322), (293, 925), VIOLET) Perimeter: 1214.379942
+Triangle((800, 315), (305, 523), (503, 217), LIGHT_BLUE) Perimeter: 1214.148428
+Triangle((448, 230), (283, 467), (54, 42), ORANGE) Perimeter: 1208.103982
+Rectangle((174, 594), (108, 61), ORANGE) Perimeter: 1198.000000
+Rectangle((441, 313), (427, 896), GREEN) Perimeter: 1194.000000
+Triangle((829, 224), (624, 315), (249, 330), ORANGE) Perimeter: 1189.196519
+Rectangle((243, 61), (622, 276), GREEN) Perimeter: 1188.000000
+Rectangle((810, 663), (598, 282), YELLOW) Perimeter: 1186.000000
+Circle((38, 989), 188.000000, BLUE) Perimeter: 1181.238838
+Triangle((191, 625), (61, 989), (108, 419), GREEN) Perimeter: 1180.544547
+Rectangle((583, 552), (800, 924), ORANGE) Perimeter: 1178.000000
+Triangle((143, 200), (288, 665), (332, 756), ORANGE) Perimeter: 1175.407596
+Rectangle((600, 275), (39, 300), BLUE) Perimeter: 1172.000000
+Triangle((302, 977), (796, 741), (774, 679), BLUE) Perimeter: 1171.466071
+Triangle((583, 901), (808, 401), (783, 797), VIOLET) Perimeter: 1170.505207
+Rectangle((445, 86), (990, 126), VIOLET) Perimeter: 1170.000000
+Triangle((244, 559), (646, 770), (786, 745), ORANGE) Perimeter: 1169.251588
+Triangle((528, 75), (440, 516), (233, 487), BLUE) Perimeter: 1165.439661
+Rectangle((438, 624), (733, 910), ORANGE) Perimeter: 1162.000000
+Triangle((115, 576), (562, 384), (483, 667), ORANGE) Perimeter: 1159.394589
+Triangle((432, 18), (676, 386), (858, 233), VIOLET) Perimeter: 1156.489702
+Triangle((570, 385), (222, 106), (344, 529), BLUE) Perimeter: 1154.252100
+Rectangle((788, 181), (246, 216), RED) Perimeter: 1154.000000
+Triangle((182, 432), (377, 78), (608, 166), LIGHT_BLUE) Perimeter: 1153.575969
+Rectangle((373, 341), (256, 799), RED) Perimeter: 1150.000000
+Rectangle((787, 726), (911, 276), BLUE) Perimeter: 1148.000000
+Triangle((594, 715), (99, 671), (136, 838), GREEN) Perimeter: 1142.230256
+Rectangle((561, 290), (423, 722), RED) Perimeter: 1140.000000
+Triangle((373, 963), (328, 702), (210, 419), ORANGE) Perimeter: 1139.361533
+Rectangle((444, 439), (304, 12), ORANGE) Perimeter: 1134.000000
+Triangle((142, 607), (615, 426), (239, 720), LIGHT_BLUE) Perimeter: 1132.667770
+Rectangle((181, 600), (517, 370), GREEN) Perimeter: 1132.000000
+Triangle((758, 711), (460, 579), (894, 917), YELLOW) Perimeter: 1122.861354
+Triangle((20, 822), (55, 795), (247, 312), YELLOW) Perimeter: 1122.203923
+Rectangle((233, 897), (748, 851), GREEN) Perimeter: 1122.000000
+Triangle((417, 140), (363, 696), (414, 507), BLUE) Perimeter: 1121.388466
+Rectangle((854, 609), (425, 740), RED) Perimeter: 1120.000000
+Triangle((342, 632), (252, 844), (721, 647), GREEN) Perimeter: 1118.303956
+Triangle((248, 323), (275, 876), (315, 673), LIGHT_BLUE) Perimeter: 1116.917259
+Rectangle((28, 311), (563, 288), RED) Perimeter: 1116.000000
+Rectangle((315, 374), (578, 669), RED) Perimeter: 1116.000000
+Circle((715, 636), 177.000000, GREEN) Perimeter: 1112.123799
+Rectangle((194, 726), (642, 618), VIOLET) Perimeter: 1112.000000
+Triangle((773, 489), (557, 457), (543, 57), BLUE) Perimeter: 1108.014322
+Triangle((669, 803), (561, 989), (358, 546), YELLOW) Perimeter: 1105.825646
+Triangle((598, 478), (278, 29), (448, 242), LIGHT_BLUE) Perimeter: 1103.521727
+Rectangle((702, 903), (918, 568), YELLOW) Perimeter: 1102.000000
+Rectangle((561, 645), (782, 316), GREEN) Perimeter: 1100.000000
+Triangle((473, 372), (396, 794), (335, 290), RED) Perimeter: 1097.169554
+Rectangle((490, 44), (942, 140), LIGHT_BLUE) Perimeter: 1096.000000
+Triangle((696, 904), (958, 710), (459, 895), YELLOW) Perimeter: 1095.366775
+Triangle((799, 468), (949, 340), (547, 115), RED) Perimeter: 1091.593408
+Rectangle((863, 610), (823, 108), LIGHT_BLUE) Perimeter: 1084.000000
+Rectangle((605, 525), (944, 324), VIOLET) Perimeter: 1080.000000
+Rectangle((451, 304), (135, 527), BLUE) Perimeter: 1078.000000
+Rectangle((547, 627), (788, 332), RED) Perimeter: 1072.000000
+Triangle((34, 595), (494, 480), (168, 377), LIGHT_BLUE) Perimeter: 1071.932232
+Rectangle((622, 902), (551, 440), BLUE) Perimeter: 1066.000000
+Circle((905, 277), 169.000000, BLUE) Perimeter: 1061.858317
+Triangle((209, 213), (496, 445), (36, 344), ORANGE) Perimeter: 1057.003197
+Triangle((199, 122), (452, 536), (135, 254), RED) Perimeter: 1056.161887
+Triangle((899, 724), (381, 719), (761, 787), ORANGE) Perimeter: 1055.760761
+Circle((119, 524), 168.000000, LIGHT_BLUE) Perimeter: 1055.575132
+Triangle((196, 186), (75, 385), (427, 549), RED) Perimeter: 1051.496235
+Circle((582, 606), 167.000000, VIOLET) Perimeter: 1049.291946
+Triangle((898, 192), (989, 540), (694, 529), BLUE) Perimeter: 1048.841552
+Rectangle((621, 549), (712, 116), GREEN) Perimeter: 1048.000000
+Rectangle((684, 611), (267, 717), VIOLET) Perimeter: 1046.000000
+Circle((131, 25), 166.000000, RED) Perimeter: 1043.008761
+Circle((276, 320), 166.000000, YELLOW) Perimeter: 1043.008761
+Circle((657, 642), 166.000000, YELLOW) Perimeter: 1043.008761
+Rectangle((495, 311), (605, 721), ORANGE) Perimeter: 1040.000000
+Circle((960, 441), 165.000000, YELLOW) Perimeter: 1036.725576
+Triangle((720, 849), (497, 786), (988, 701), LIGHT_BLUE) Perimeter: 1036.181700
+Rectangle((433, 739), (207, 448), LIGHT_BLUE) Perimeter: 1034.000000
+Circle((886, 99), 164.000000, BLUE) Perimeter: 1030.442390
+Circle((516, 428), 164.000000, YELLOW) Perimeter: 1030.442390
+Circle((656, 605), 163.000000, VIOLET) Perimeter: 1024.159205
+Triangle((232, 166), (314, 38), (133, 514), BLUE) Perimeter: 1023.072529
+Rectangle((835, 880), (980, 516), BLUE) Perimeter: 1018.000000
+Circle((448, 575), 162.000000, ORANGE) Perimeter: 1017.876020
+Rectangle((819, 228), (350, 262), GREEN) Perimeter: 1006.000000
+Rectangle((532, 546), (851, 362), RED) Perimeter: 1006.000000
+Rectangle((724, 282), (277, 227), VIOLET) Perimeter: 1004.000000
+Triangle((69, 433), (341, 455), (396, 734), LIGHT_BLUE) Perimeter: 1001.701206
+Circle((40, 173), 159.000000, VIOLET) Perimeter: 999.026464
+Circle((936, 257), 158.000000, YELLOW) Perimeter: 992.743279
+Triangle((511, 60), (997, 23), (682, 106), RED) Perimeter: 990.236919
+Triangle((548, 494), (240, 671), (606, 357), ORANGE) Perimeter: 986.244635
+Rectangle((713, 450), (849, 806), GREEN) Perimeter: 984.000000
+Rectangle((295, 494), (466, 812), BLUE) Perimeter: 978.000000
+Triangle((625, 423), (168, 447), (513, 322), GREEN) Perimeter: 975.391081
+Rectangle((775, 642), (960, 341), VIOLET) Perimeter: 972.000000
+Rectangle((46, 606), (394, 741), BLUE) Perimeter: 966.000000
+Triangle((284, 826), (615, 507), (368, 624), VIOLET) Perimeter: 951.776360
+Rectangle((527, 695), (339, 408), LIGHT_BLUE) Perimeter: 950.000000
+Rectangle((73, 151), (162, 536), YELLOW) Perimeter: 948.000000
+Rectangle((596, 543), (960, 434), ORANGE) Perimeter: 946.000000
+Rectangle((476, 469), (251, 225), BLUE) Perimeter: 938.000000
+Circle((893, 977), 149.000000, VIOLET) Perimeter: 936.194611
+Triangle((247, 429), (180, 294), (593, 292), GREEN) Perimeter: 935.852216
+Triangle((463, 387), (430, 436), (109, 689), BLUE) Perimeter: 933.110824
+Triangle((856, 518), (682, 128), (616, 187), VIOLET) Perimeter: 924.435138
+Triangle((294, 383), (477, 777), (466, 497), ORANGE) Perimeter: 920.990114
+Circle((447, 816), 146.000000, YELLOW) Perimeter: 917.345055
+Triangle((519, 733), (955, 749), (752, 835), LIGHT_BLUE) Perimeter: 911.107083
+Triangle((406, 667), (273, 642), (60, 389), GREEN) Perimeter: 909.899498
+Rectangle((866, 41), (536, 165), VIOLET) Perimeter: 908.000000
+Triangle((303, 368), (210, 582), (187, 804), ORANGE) Perimeter: 907.690160
+Rectangle((920, 243), (629, 81), YELLOW) Perimeter: 906.000000
+Rectangle((926, 452), (653, 630), RED) Perimeter: 902.000000
+Triangle((851, 334), (488, 335), (869, 467), LIGHT_BLUE) Perimeter: 900.432199
+Triangle((809, 636), (699, 268), (687, 659), ORANGE) Perimeter: 899.421735
+Rectangle((527, 38), (843, 171), GREEN) Perimeter: 898.000000
+Rectangle((775, 236), (390, 299), VIOLET) Perimeter: 896.000000
+Triangle((524, 514), (641, 280), (472, 692), BLUE) Perimeter: 892.374466
+Rectangle((317, 817), (625, 953), BLUE) Perimeter: 888.000000
+Rectangle((520, 604), (693, 341), LIGHT_BLUE) Perimeter: 872.000000
+Triangle((464, 539), (465, 875), (670, 719), ORANGE) Perimeter: 867.169470
+Triangle((623, 548), (589, 376), (613, 118), GREEN) Perimeter: 864.558401
+Rectangle((713, 135), (999, 281), VIOLET) Perimeter: 864.000000
+Triangle((623, 338), (462, 128), (266, 158), YELLOW) Perimeter: 862.708646
+Rectangle((847, 319), (599, 502), ORANGE) Perimeter: 862.000000
+Circle((807, 798), 137.000000, VIOLET) Perimeter: 860.796387
+Triangle((224, 554), (495, 887), (446, 830), LIGHT_BLUE) Perimeter: 858.706511
+Rectangle((96, 468), (376, 617), LIGHT_BLUE) Perimeter: 858.000000
+Rectangle((194, 80), (65, 379), VIOLET) Perimeter: 856.000000
+Triangle((690, 341), (462, 207), (387, 461), RED) Perimeter: 855.200403
+Rectangle((578, 1), (156, 5), BLUE) Perimeter: 852.000000
+Rectangle((526, 587), (599, 940), RED) Perimeter: 852.000000
+Circle((551, 13), 135.000000, ORANGE) Perimeter: 848.230016
+Triangle((655, 238), (523, 249), (289, 436), BLUE) Perimeter: 848.123838
+Rectangle((531, 160), (815, 24), LIGHT_BLUE) Perimeter: 840.000000
+Triangle((451, 274), (190, 195), (403, 478), VIOLET) Perimeter: 836.465466
+Circle((973, 199), 133.000000, VIOLET) Perimeter: 835.663646
+Circle((885, 368), 133.000000, LIGHT_BLUE) Perimeter: 835.663646
+Circle((304, 57), 133.000000, YELLOW) Perimeter: 835.663646
+Rectangle((744, 475), (826, 140), ORANGE) Perimeter: 834.000000
+Triangle((792, 677), (379, 672), (620, 715), VIOLET) Perimeter: 833.983976
+Triangle((461, 633), (258, 664), (289, 938), BLUE) Perimeter: 831.257107
+Rectangle((658, 746), (522, 467), GREEN) Perimeter: 830.000000
+Circle((688, 416), 131.000000, LIGHT_BLUE) Perimeter: 823.097275
+Circle((270, 472), 131.000000, ORANGE) Perimeter: 823.097275
+Triangle((241, 672), (364, 362), (202, 351), LIGHT_BLUE) Perimeter: 819.243627
+Triangle((868, 603), (470, 526), (541, 557), RED) Perimeter: 813.072268
+Circle((280, 201), 129.000000, ORANGE) Perimeter: 810.530905
+Rectangle((483, 791), (81, 794), VIOLET) Perimeter: 810.000000
+Rectangle((167, 462), (289, 744), ORANGE) Perimeter: 808.000000
+Rectangle((718, 701), (910, 911), RED) Perimeter: 804.000000
+Rectangle((121, 25), (157, 385), BLUE) Perimeter: 792.000000
+Rectangle((209, 567), (148, 232), BLUE) Perimeter: 792.000000
+Rectangle((811, 486), (791, 852), BLUE) Perimeter: 772.000000
+Rectangle((28, 599), (386, 626), LIGHT_BLUE) Perimeter: 770.000000
+Rectangle((313, 917), (95, 750), YELLOW) Perimeter: 770.000000
+Rectangle((501, 819), (204, 907), ORANGE) Perimeter: 770.000000
+Rectangle((200, 877), (239, 532), GREEN) Perimeter: 768.000000
+Triangle((345, 313), (653, 346), (532, 169), ORANGE) Perimeter: 760.188036
+Rectangle((683, 212), (378, 287), GREEN) Perimeter: 760.000000
+Triangle((634, 266), (701, 312), (697, 624), GREEN) Perimeter: 756.797823
+Circle((748, 312), 120.000000, RED) Perimeter: 753.982237
+Rectangle((280, 300), (31, 427), YELLOW) Perimeter: 752.000000
+Rectangle((966, 504), (802, 294), YELLOW) Perimeter: 748.000000
+Triangle((460, 414), (755, 394), (505, 255), BLUE) Perimeter: 746.966164
+Triangle((207, 387), (403, 560), (118, 321), BLUE) Perimeter: 744.179312
+Rectangle((830, 478), (683, 262), RED) Perimeter: 726.000000
+Triangle((681, 495), (779, 655), (878, 798), BLUE) Perimeter: 722.963685
+Rectangle((385, 173), (32, 175), RED) Perimeter: 710.000000
+Triangle((715, 286), (896, 419), (704, 541), YELLOW) Perimeter: 707.329786
+Rectangle((769, 463), (640, 241), ORANGE) Perimeter: 702.000000
+Rectangle((449, 761), (762, 724), VIOLET) Perimeter: 700.000000
+Circle((584, 310), 111.000000, LIGHT_BLUE) Perimeter: 697.433569
+Rectangle((269, 637), (98, 813), LIGHT_BLUE) Perimeter: 694.000000
+Rectangle((637, 34), (965, 16), RED) Perimeter: 692.000000
+Rectangle((365, 455), (306, 742), BLUE) Perimeter: 692.000000
+Triangle((936, 620), (741, 351), (822, 573), YELLOW) Perimeter: 691.867910
+Rectangle((891, 155), (936, 453), RED) Perimeter: 686.000000
+Rectangle((517, 632), (184, 624), GREEN) Perimeter: 682.000000
+Rectangle((672, 545), (947, 610), GREEN) Perimeter: 680.000000
+Rectangle((963, 309), (696, 379), YELLOW) Perimeter: 674.000000
+Triangle((821, 292), (791, 444), (942, 150), RED) Perimeter: 672.003437
+Rectangle((21, 84), (231, 210), VIOLET) Perimeter: 672.000000
+Rectangle((812, 359), (581, 462), RED) Perimeter: 668.000000
+Rectangle((482, 62), (761, 8), VIOLET) Perimeter: 666.000000
+Rectangle((288, 570), (407, 781), VIOLET) Perimeter: 660.000000
+Triangle((315, 239), (588, 268), (461, 388), ORANGE) Perimeter: 657.868758
+Rectangle((309, 311), (440, 114), LIGHT_BLUE) Perimeter: 656.000000
+Rectangle((282, 675), (155, 875), BLUE) Perimeter: 654.000000
+Rectangle((631, 440), (843, 327), GREEN) Perimeter: 650.000000
+Triangle((751, 712), (790, 392), (775, 542), ORANGE) Perimeter: 644.801696
+Triangle((975, 404), (964, 480), (754, 266), RED) Perimeter: 637.166044
+Rectangle((394, 580), (491, 800), LIGHT_BLUE) Perimeter: 634.000000
+Circle((970, 902), 98.000000, RED) Perimeter: 615.752160
+Circle((214, 590), 97.000000, VIOLET) Perimeter: 609.468975
+Rectangle((453, 739), (589, 573), VIOLET) Perimeter: 604.000000
+Rectangle((702, 936), (569, 767), ORANGE) Perimeter: 604.000000
+Rectangle((732, 321), (888, 177), YELLOW) Perimeter: 600.000000
+Circle((469, 947), 95.000000, ORANGE) Perimeter: 596.902604
+Rectangle((569, 504), (520, 255), BLUE) Perimeter: 596.000000
+Rectangle((900, 192), (672, 127), BLUE) Perimeter: 586.000000
+Rectangle((283, 429), (224, 662), LIGHT_BLUE) Perimeter: 584.000000
+Rectangle((82, 438), (48, 182), ORANGE) Perimeter: 580.000000
+Rectangle((359, 502), (290, 723), VIOLET) Perimeter: 580.000000
+Circle((489, 40), 92.000000, GREEN) Perimeter: 578.053048
+Circle((511, 98), 92.000000, ORANGE) Perimeter: 578.053048
+Triangle((431, 142), (425, 390), (366, 133), RED) Perimeter: 577.378108
+Circle((113, 357), 90.000000, LIGHT_BLUE) Perimeter: 565.486678
+Triangle((319, 798), (299, 917), (515, 804), ORANGE) Perimeter: 560.533219
+Triangle((181, 820), (131, 658), (5, 829), BLUE) Perimeter: 558.178146
+Rectangle((813, 569), (843, 320), VIOLET) Perimeter: 558.000000
+Rectangle((672, 591), (486, 499), VIOLET) Perimeter: 556.000000
+Triangle((185, 697), (381, 570), (136, 673), YELLOW) Perimeter: 553.881179
+Triangle((250, 405), (340, 179), (352, 377), ORANGE) Perimeter: 547.397822
+Circle((500, 872), 87.000000, GREEN) Perimeter: 546.637122
+Rectangle((561, 642), (721, 529), YELLOW) Perimeter: 546.000000
+Rectangle((708, 386), (836, 243), ORANGE) Perimeter: 542.000000
+Circle((441, 893), 85.000000, LIGHT_BLUE) Perimeter: 534.070751
+Triangle((684, 699), (595, 750), (633, 935), GREEN) Perimeter: 532.886901
+Rectangle((498, 390), (759, 393), BLUE) Perimeter: 528.000000
+Triangle((530, 344), (533, 188), (661, 149), ORANGE) Perimeter: 524.755416
+Rectangle((855, 833), (988, 961), BLUE) Perimeter: 522.000000
+Rectangle((557, 748), (415, 634), YELLOW) Perimeter: 512.000000
+Rectangle((655, 893), (824, 979), GREEN) Perimeter: 510.000000
+Circle((578, 448), 81.000000, GREEN) Perimeter: 508.938010
+Rectangle((844, 129), (966, 259), GREEN) Perimeter: 504.000000
+Circle((939, 726), 78.000000, LIGHT_BLUE) Perimeter: 490.088454
+Rectangle((143, 629), (329, 574), LIGHT_BLUE) Perimeter: 482.000000
+Circle((467, 996), 75.000000, ORANGE) Perimeter: 471.238898
+Rectangle((723, 325), (929, 351), GREEN) Perimeter: 464.000000
+Rectangle((668, 0), (667, 229), RED) Perimeter: 460.000000
+Circle((802, 648), 73.000000, GREEN) Perimeter: 458.672527
+Rectangle((378, 623), (602, 618), LIGHT_BLUE) Perimeter: 458.000000
+Rectangle((266, 550), (476, 563), ORANGE) Perimeter: 446.000000
+Rectangle((941, 490), (733, 478), LIGHT_BLUE) Perimeter: 440.000000
+Triangle((94, 281), (205, 211), (111, 112), ORANGE) Perimeter: 437.599083
+Rectangle((764, 650), (776, 451), VIOLET) Perimeter: 422.000000
+Circle((369, 129), 67.000000, YELLOW) Perimeter: 420.973416
+Circle((620, 45), 65.000000, ORANGE) Perimeter: 408.407045
+Circle((418, 552), 65.000000, GREEN) Perimeter: 408.407045
+Rectangle((297, 988), (428, 917), VIOLET) Perimeter: 404.000000
+Rectangle((407, 691), (317, 582), YELLOW) Perimeter: 398.000000
+Rectangle((47, 235), (15, 401), LIGHT_BLUE) Perimeter: 396.000000
+Rectangle((161, 614), (256, 511), LIGHT_BLUE) Perimeter: 396.000000
+Rectangle((211, 138), (319, 226), BLUE) Perimeter: 392.000000
+Rectangle((889, 387), (935, 526), ORANGE) Perimeter: 370.000000
+Rectangle((31, 568), (11, 407), ORANGE) Perimeter: 362.000000
+Rectangle((267, 886), (212, 766), LIGHT_BLUE) Perimeter: 350.000000
+Circle((379, 347), 55.000000, GREEN) Perimeter: 345.575192
+Rectangle((198, 688), (154, 815), BLUE) Perimeter: 342.000000
+Triangle((439, 872), (538, 910), (444, 790), ORANGE) Perimeter: 340.628334
+Circle((606, 943), 53.000000, YELLOW) Perimeter: 333.008821
+Circle((988, 524), 51.000000, RED) Perimeter: 320.442451
+Triangle((631, 147), (672, 254), (704, 283), BLUE) Perimeter: 312.125348
+Circle((706, 321), 48.000000, ORANGE) Perimeter: 301.592895
+Circle((851, 927), 46.000000, BLUE) Perimeter: 289.026524
+Rectangle((237, 157), (106, 148), GREEN) Perimeter: 280.000000
+Circle((964, 523), 43.000000, ORANGE) Perimeter: 270.176968
+Circle((792, 209), 43.000000, YELLOW) Perimeter: 270.176968
+Rectangle((696, 721), (806, 743), RED) Perimeter: 264.000000
+Rectangle((471, 865), (395, 812), LIGHT_BLUE) Perimeter: 258.000000
+Rectangle((745, 860), (642, 834), RED) Perimeter: 258.000000
+Rectangle((883, 340), (909, 442), GREEN) Perimeter: 256.000000
+Rectangle((51, 762), (162, 768), YELLOW) Perimeter: 234.000000
+Circle((128, 117), 27.000000, BLUE) Perimeter: 169.646003
+Rectangle((444, 871), (405, 915), GREEN) Perimeter: 166.000000
+Rectangle((920, 722), (897, 780), YELLOW) Perimeter: 162.000000
+Circle((951, 577), 23.000000, BLUE) Perimeter: 144.513262
+Circle((98, 907), 19.000000, LIGHT_BLUE) Perimeter: 119.380521
+Circle((29, 830), 19.000000, YELLOW) Perimeter: 119.380521
+Circle((858, 495), 16.000000, ORANGE) Perimeter: 100.530965
+Rectangle((978, 273), (954, 297), VIOLET) Perimeter: 96.000000
+Circle((592, 544), 8.000000, YELLOW) Perimeter: 50.265482
+Rectangle((288, 770), (289, 749), GREEN) Perimeter: 44.000000
+Circle((896, 975), 4.000000, RED) Perimeter: 25.132741

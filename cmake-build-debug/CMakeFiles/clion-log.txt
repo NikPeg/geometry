@@ -1,0 +1,4 @@
+/home/nspeganov/distrib/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/nspeganov/Inst/arch/geometry
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nspeganov/Inst/arch/geometry/cmake-build-debug
