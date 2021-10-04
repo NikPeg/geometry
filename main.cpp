@@ -76,7 +76,7 @@ double perimeter(Circle c) {
 Circle readCircle() {
     Circle result = Circle();
     std::string color_string;
-    scanf("%d %d %lg %s", &result.centre.x, &result.centre.y, &result.radius, &color_string[0]);
+    std::cin >> result.centre.x >> result.centre.y >> result.radius >> color_string;
     result.color = stringToColor(color_string);
     return result;
 }
@@ -84,7 +84,7 @@ Circle readCircle() {
 void print(Circle c) {
     printf("Circle(");
     print(c.centre);
-    printf(", %f)", c.radius);
+    printf(", %f)\n", c.radius);
 }
 
 struct Rectangle {
@@ -110,7 +110,7 @@ void print(Rectangle r) {
     print(r.left_up);
     printf(", ");
     print(r.right_down);
-    printf(")");
+    printf(")\n");
 }
 
 struct Triangle {
@@ -125,8 +125,7 @@ double perimeter(Triangle t) {
 Triangle readTriangle() {
     Triangle result = Triangle();
     std::string color_string;
-    scanf("%d %d %d %d %d %d %s", &result.a.x, &result.a.y, &result.b.x, &result.b.y, &result.c.x, &result.c.y,
-          &color_string[0]);
+    std::cin >> result.a.x >> result.a.y >> result.b.x >> result.b.y >> result.c.x >> result.c.y >> color_string;
     result.color = stringToColor(color_string);
     return result;
 }
@@ -138,14 +137,14 @@ void print(Triangle t) {
     print(t.b);
     printf(", ");
     print(t.c);
-    printf(")");
+    printf(")\n");
 }
 
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
     std::freopen(argv[2], "w", stdout);
     int figures_count;
-    scanf("%d", &figures_count);
+    std::cin >> figures_count;
     const int MAX_COUNT = 10000;
     Triangle triangles[MAX_COUNT];
     Circle circles[MAX_COUNT];
@@ -153,7 +152,7 @@ int main(int argc, char *argv[]) {
     int last_triangle = 0, last_circle = 0, last_rectangle = 0;
     std::string figure_type, color;
     for (int i = 0; i < figures_count; ++i) {
-        scanf("%s", &figure_type[0]);
+        std::cin >> figure_type;
         if (figure_type == "Circle") {
             circles[last_circle++] = readCircle();
         }
