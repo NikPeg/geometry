@@ -53,18 +53,18 @@ Color stringToColor(std::string color_string) {
 
 class Figure {
 public:
-    Color color;
+    Color color = RED;
 
-    virtual double perimeter();
+    virtual double perimeter() = 0;
 
-//    virtual void print() {}
+    virtual void print() = 0;
 
-    bool operator<(Figure other) {
-        return perimeter() < other.perimeter();
+    bool operator<(Figure *other) {
+        return perimeter() < other->perimeter();
     }
 
-    bool operator==(Figure other) {
-        return perimeter() == other.perimeter();
+    bool operator==(Figure *other) {
+        return perimeter() == other->perimeter();
     }
 };
 
@@ -204,6 +204,20 @@ public:
         printf(")");
     }
 };
+
+void sort(Figure *figures[], int n) {
+    for (int i = 0; i < n; ++i) {
+        double mx = -1;
+        int mxj;
+        for (int j = i; j < n; ++j) {
+            if (perimeter(figures[j]) > mx) {
+                mx = perimeter(figures[j]);
+                mxj = j;
+            }
+        }
+        std::swap(figures[i], figures[mxj]);
+    }
+}
 
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
