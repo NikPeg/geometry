@@ -86,7 +86,7 @@ public:
         return sqrt((a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y));
     }
 
-    void print() {
+    void print() const {
         printf("(%d, %d)", x, y);
     }
 };
@@ -188,8 +188,7 @@ public:
     static Triangle read() {
         Triangle result = Triangle();
         std::string color_string;
-        scanf("%d %d %d %d %d %d %s", &result.a.x, &result.a.y, &result.b.x, &result.b.y, &result.c.x, &result.c.y,
-              &color_string[0]);
+        std::cin >> result.a.x >> result.a.y >> result.b.x >> result.b.y >> result.c.x >> result.c.y >> color_string;
         result.color = stringToColor(color_string);
         return result;
     }
@@ -205,40 +204,44 @@ public:
     }
 };
 
-void sort(Figure *figures[], int n) {
-    for (int i = 0; i < n; ++i) {
-        double mx = -1;
-        int mxj;
-        for (int j = i; j < n; ++j) {
-            if (perimeter(figures[j]) > mx) {
-                mx = perimeter(figures[j]);
-                mxj = j;
-            }
-        }
-        std::swap(figures[i], figures[mxj]);
-    }
-}
+//void sort(Figure *figures[], int n) {
+//    for (int i = 0; i < n; ++i) {
+//        double mx = -1;
+//        int mxj;
+//        for (int j = i; j < n; ++j) {
+//            if (perimeter(figures[j]) > mx) {
+//                mx = perimeter(figures[j]);
+//                mxj = j;
+//            }
+//        }
+//        std::swap(figures[i], figures[mxj]);
+//    }
+//}
 
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
     std::freopen(argv[2], "w", stdout);
     int figures_count;
-    scanf("%d", &figures_count);
-    Figure figures[figures_count];
+    std::cin >> figures_count;
+    Figure *figures[figures_count];
     std::string figure_type, color;
+    // При выходе из цикла область видимости исчезает, фигуры не видно. Нужно через new
     for (int i = 0; i < figures_count; ++i) {
-        scanf("%s", &figure_type[0]);
+        std::cin >> figure_type;
         if (figure_type == "Circle") {
-            figures[i] = Circle::read();
+            Circle c = Circle::read();
+            figures[i] = &c;
         }
         else if (figure_type == "Rectangle") {
-            figures[i] = Rectangle::read();
+            Rectangle r = Rectangle::read();
+            figures[i] = &r;
         }
         else if (figure_type == "Triangle") {
-            figures[i] = Triangle::read();
+            Triangle t = Triangle::read();
+            figures[i] = &t;
         }
     }
-    for (Figure f : figures) {
-        f.print();
+    for (Figure *f : figures) {
+        f->print();
     }
 }

@@ -91,7 +91,7 @@
       <workItem from="1633370210508" duration="10576000" />
       <workItem from="1633895496433" duration="1355000" />
       <workItem from="1633954996792" duration="57000" />
-      <workItem from="1633965155787" duration="2977000" />
+      <workItem from="1633965155787" duration="4404000" />
     </task>
     <task id="LOCAL-00001" summary="Add shape class">
       <created>1633273512560</created>
@@ -327,5 +327,16 @@
     <MESSAGE value="Format report" />
     <MESSAGE value="Add how to run" />
     <option name="LAST_COMMIT_MESSAGE" value="Add how to run" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>228</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
