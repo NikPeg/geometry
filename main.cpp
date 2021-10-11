@@ -120,7 +120,7 @@ public:
         return result;
     }
 
-    void print() {
+    void print() override {
         printf("Circle(");
         centre.print();
         printf(", %f)", radius);
@@ -155,7 +155,7 @@ public:
         return result;
     }
 
-    void print() {
+    void print() override {
         printf("Rectangle(");
         left_up.print();
         printf(", ");
@@ -194,7 +194,7 @@ public:
         return result;
     }
 
-    void print() {
+    void print() override {
         printf("Triangle(");
         a.print();
         printf(", ");

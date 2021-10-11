@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/taskE.dir/taskE.cpp.o -o taskE 
