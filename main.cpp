@@ -121,7 +121,8 @@ public:
     void print() override {
         printf("Circle(");
         centre.print();
-        printf(", %f)\n", radius);
+        printf(", %f) ", radius);
+        printf("Perimeter: %f\n", perimeter());
     }
 };
 
@@ -144,13 +145,10 @@ public:
         return 2 * (abs(left_up.x - right_down.x) + abs(left_up.y - right_down.y));
     }
 
-    static Rectangle read() {
-        Rectangle result = Rectangle();
+    void read() {
         std::string color_string;
-        scanf("%d %d %d %d %s", &result.left_up.x, &result.left_up.y, &result.right_down.x, &result.right_down.y,
-              &color_string[0]);
-        result.color = stringToColor(color_string);
-        return result;
+        scanf("%d %d %d %d %s", &left_up.x, &left_up.y, &right_down.x, &right_down.y, &color_string[0]);
+        color = stringToColor(color_string);
     }
 
     void print() override {
@@ -158,7 +156,8 @@ public:
         left_up.print();
         printf(", ");
         right_down.print();
-        printf(")\n");
+        printf(") ");
+        printf("Perimeter: %f\n", perimeter());
     }
 };
 
@@ -183,12 +182,10 @@ public:
         return Point::distance(a, b) + Point::distance(b, c) + Point::distance(c, a);
     }
 
-    static Triangle read() {
-        Triangle result = Triangle();
+    void read() {
         std::string color_string;
-        std::cin >> result.a.x >> result.a.y >> result.b.x >> result.b.y >> result.c.x >> result.c.y >> color_string;
-        result.color = stringToColor(color_string);
-        return result;
+        std::cin >> a.x >> a.y >> b.x >> b.y >> c.x >> c.y >> color_string;
+        color = stringToColor(color_string);
     }
 
     void print() override {
@@ -198,7 +195,8 @@ public:
         b.print();
         printf(", ");
         c.print();
-        printf(")\n");
+        printf(") ");
+        printf("Perimeter: %f\n", perimeter());
     }
 };
 
