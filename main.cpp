@@ -112,12 +112,10 @@ public:
         return 2 * M_PI * radius;
     }
 
-    static Circle read() {
-        Circle result = Circle();
+    void read() {
         std::string color_string;
-        scanf("%d %d %lg %s", &result.centre.x, &result.centre.y, &result.radius, &color_string[0]);
-        result.color = stringToColor(color_string);
-        return result;
+        scanf("%d %d %lg %s", &centre.x, &centre.y, &radius, &color_string[0]);
+        color = stringToColor(color_string);
     }
 
     void print() override {
@@ -204,6 +202,41 @@ public:
     }
 };
 
+class Container {
+private:
+    static const int MAXSIZE = 10000;
+    int figures_count;
+    Figure *figures[MAXSIZE];
+public:
+    void read() {
+        std::cin >> figures_count;
+        std::string figure_type, color;
+        for (int i = 0; i < figures_count; ++i) {
+            std::cin >> figure_type;
+            if (figure_type == "Circle") {
+                auto *c = new Circle();
+                c->read();
+                figures[i] = c;
+            }
+            else if (figure_type == "Rectangle") {
+                auto *r = new Rectangle();
+                r->read();
+                figures[i] = r;
+            }
+            else if (figure_type == "Triangle") {
+                auto *t = new Triangle();
+                t->read();
+                figures[i] = t;
+            }
+        }
+    }
+
+    void print() {
+        for (int i = 0; i < figures_count; ++i) {
+            figures[i]->print();
+        }
+    }
+};
 //void sort(Figure *figures[], int n) {
 //    for (int i = 0; i < n; ++i) {
 //        double mx = -1;
@@ -221,29 +254,7 @@ public:
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);
     std::freopen(argv[2], "w", stdout);
-    int figures_count;
-    std::cin >> figures_count;
-    Figure *figures[figures_count];
-    std::string figure_type, color;
-    Circle c;
-    Rectangle r;
-    Triangle t;
-    for (int i = 0; i < figures_count; ++i) {
-        std::cin >> figure_type;
-        if (figure_type == "Circle") {
-            c = Circle::read();
-            figures[i] = &c;
-        }
-        else if (figure_type == "Rectangle") {
-            r = Rectangle::read();
-            figures[i] = &r;
-        }
-        else if (figure_type == "Triangle") {
-            t = Triangle::read();
-            figures[i] = &t;
-        }
-    }
-    for (Figure *f : figures) {
-        f->print();
-    }
+    Container c = Container();
+    c.read();
+    c.print();
 }
