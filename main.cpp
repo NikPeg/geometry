@@ -123,7 +123,7 @@ public:
     void print() override {
         printf("Circle(");
         centre.print();
-        printf(", %f)", radius);
+        printf(", %f)\n", radius);
     }
 };
 
@@ -160,7 +160,7 @@ public:
         left_up.print();
         printf(", ");
         right_down.print();
-        printf(")");
+        printf(")\n");
     }
 };
 
@@ -200,7 +200,7 @@ public:
         b.print();
         printf(", ");
         c.print();
-        printf(")");
+        printf(")\n");
     }
 };
 
@@ -225,19 +225,21 @@ int main(int argc, char *argv[]) {
     std::cin >> figures_count;
     Figure *figures[figures_count];
     std::string figure_type, color;
-    // При выходе из цикла область видимости исчезает, фигуры не видно. Нужно через new
+    Circle c;
+    Rectangle r;
+    Triangle t;
     for (int i = 0; i < figures_count; ++i) {
         std::cin >> figure_type;
         if (figure_type == "Circle") {
-            Circle c = Circle::read();
+            c = Circle::read();
             figures[i] = &c;
         }
         else if (figure_type == "Rectangle") {
-            Rectangle r = Rectangle::read();
+            r = Rectangle::read();
             figures[i] = &r;
         }
         else if (figure_type == "Triangle") {
-            Triangle t = Triangle::read();
+            t = Triangle::read();
             figures[i] = &t;
         }
     }
