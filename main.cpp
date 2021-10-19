@@ -236,20 +236,22 @@ public:
             figures[i]->print();
         }
     }
+
+    void sort() {
+        for (int i = 0; i < figures_count; ++i) {
+            double mx = -1;
+            int mxj;
+            for (int j = i; j < figures_count; ++j) {
+                if (figures[j]->perimeter() > mx) {
+                    mx = figures[j]->perimeter();
+                    mxj = j;
+                }
+            }
+            std::swap(figures[i], figures[mxj]);
+        }
+    }
 };
-//void sort(Figure *figures[], int n) {
-//    for (int i = 0; i < n; ++i) {
-//        double mx = -1;
-//        int mxj;
-//        for (int j = i; j < n; ++j) {
-//            if (perimeter(figures[j]) > mx) {
-//                mx = perimeter(figures[j]);
-//                mxj = j;
-//            }
-//        }
-//        std::swap(figures[i], figures[mxj]);
-//    }
-//}
+
 
 int main(int argc, char *argv[]) {
     std::freopen(argv[1], "r", stdin);

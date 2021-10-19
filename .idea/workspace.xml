@@ -11,13 +11,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e53b259-5634-4db7-9dcd-a7bedca6e6ff" name="Changes" comment="Solve a bug with visibility">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5e53b259-5634-4db7-9dcd-a7bedca6e6ff" name="Changes" comment="Container and reading">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/geometry" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/geometry" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/out5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/out5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +96,7 @@
       <workItem from="1633895496433" duration="1355000" />
       <workItem from="1633954996792" duration="57000" />
       <workItem from="1633965155787" duration="4515000" />
-      <workItem from="1634651455319" duration="3593000" />
+      <workItem from="1634651455319" duration="3680000" />
     </task>
     <task id="LOCAL-00001" summary="Add shape class">
       <created>1633273512560</created>
@@ -299,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634652347289</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Container and reading">
+      <created>1634655067856</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1634655067856</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +320,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add rectangle class" />
     <MESSAGE value="Triangle class" />
     <MESSAGE value="Add distance to Point" />
     <MESSAGE value="Add command line arguments" />
@@ -343,7 +344,8 @@
     <MESSAGE value="Format report" />
     <MESSAGE value="Add how to run" />
     <MESSAGE value="Solve a bug with visibility" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve a bug with visibility" />
+    <MESSAGE value="Container and reading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Container and reading" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
