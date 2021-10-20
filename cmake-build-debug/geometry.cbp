@@ -82,7 +82,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/nspeganov/Inst/arch/geometry/Circle.h">
+			<Option target="geometry"/>
+		</Unit>
+		<Unit filename="/home/nspeganov/Inst/arch/geometry/Container.h">
+			<Option target="geometry"/>
+		</Unit>
+		<Unit filename="/home/nspeganov/Inst/arch/geometry/Figure.h">
+			<Option target="geometry"/>
+		</Unit>
+		<Unit filename="/home/nspeganov/Inst/arch/geometry/Point.h">
+			<Option target="geometry"/>
+		</Unit>
+		<Unit filename="/home/nspeganov/Inst/arch/geometry/Rectangle.h">
+			<Option target="geometry"/>
+		</Unit>
+		<Unit filename="/home/nspeganov/Inst/arch/geometry/Triangle.h">
+			<Option target="geometry"/>
+		</Unit>
 		<Unit filename="/home/nspeganov/Inst/arch/geometry/main.cpp">
+			<Option target="geometry"/>
+		</Unit>
+		<Unit filename="/home/nspeganov/Inst/arch/geometry/utils.h">
 			<Option target="geometry"/>
 		</Unit>
 		<Unit filename="/home/nspeganov/Inst/arch/geometry/CMakeLists.txt">

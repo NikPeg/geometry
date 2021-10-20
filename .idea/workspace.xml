@@ -12,12 +12,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e53b259-5634-4db7-9dcd-a7bedca6e6ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Circle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Container.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Figure.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rectangle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Triangle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/geometry" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/geometry" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/geometry.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/geometry.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/out5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/out5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -72,9 +82,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="geometry" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="test5.txt out5.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="geometry" TARGET_NAME="geometry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="geometry" RUN_TARGET_NAME="geometry">
@@ -103,6 +113,7 @@
       <workItem from="1633954996792" duration="57000" />
       <workItem from="1633965155787" duration="4515000" />
       <workItem from="1634651455319" duration="3680000" />
+      <workItem from="1634757114251" duration="1275000" />
     </task>
     <task id="LOCAL-00001" summary="Add shape class">
       <created>1633273512560</created>
@@ -352,21 +363,5 @@
     <MESSAGE value="Solve a bug with visibility" />
     <MESSAGE value="Container and reading" />
     <option name="LAST_COMMIT_MESSAGE" value="Container and reading" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>232</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>229</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
