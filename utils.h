@@ -32,20 +32,20 @@ std::string colorToString(Color color) {
     }
 }
 
-Color stringToColor(const std::string& color_string) {
-    if (color_string == "RED")
+Color stringToColor(const char color_char) {
+    if (color_char == 'R')
         return RED;
-    if (color_string == "ORANGE")
+    if (color_char == 'O')
         return ORANGE;
-    if (color_string == "YELLOW")
+    if (color_char == 'Y')
         return YELLOW;
-    if (color_string == "GREEN")
+    if (color_char == 'G')
         return GREEN;
-    if (color_string == "LIGHT_BLUE")
+    if (color_char == 'L')
         return LIGHT_BLUE;
-    if (color_string == "BLUE")
+    if (color_char == 'B')
         return BLUE;
-    if (color_string == "VIOLET")
+    if (color_char == 'V')
         return VIOLET;
     return RED;
 }

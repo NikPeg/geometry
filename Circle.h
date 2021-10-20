@@ -25,9 +25,9 @@ public:
     }
 
     void read() {
-        std::string color_string;
-        scanf("%d %d %lg %s", &centre.x, &centre.y, &radius, &color_string[0]);
-        color = stringToColor(color_string);
+        char color_char;
+        scanf("%d %d %lg %s", &centre.x, &centre.y, &radius, &color_char);
+        color = stringToColor(color_char);
     }
 
     void print() override {

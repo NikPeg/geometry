@@ -11,16 +11,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e53b259-5634-4db7-9dcd-a7bedca6e6ff" name="Changes" comment="Report more">
+    <list default="true" id="5e53b259-5634-4db7-9dcd-a7bedca6e6ff" name="Changes" comment="Time in report">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle.h" beforeDir="false" afterPath="$PROJECT_DIR$/Circle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Container.h" beforeDir="false" afterPath="$PROJECT_DIR$/Container.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle.h" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.h" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/geometry.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/geometry" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/geometry" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/out5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/out5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/out5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_in/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests_in/test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_in/test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests_in/test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_in/test3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests_in/test3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_in/test4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests_in/test4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_in/test5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests_in/test5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/utils.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +88,7 @@
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="geometry" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="test5.txt out5.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="geometry" TARGET_NAME="geometry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="geometry" RUN_TARGET_NAME="geometry">
+    <configuration name="geometry" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="test1.txt out5.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="geometry" TARGET_NAME="geometry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="geometry" RUN_TARGET_NAME="geometry">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -319,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634759952345</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Time in report">
+      <created>1634762757164</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1634762757164</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +352,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add distance to Point" />
     <MESSAGE value="Add command line arguments" />
     <MESSAGE value="Add file input and output" />
     <MESSAGE value="Add color" />
@@ -363,6 +376,18 @@
     <MESSAGE value="Solve a bug with visibility" />
     <MESSAGE value="Container and reading" />
     <MESSAGE value="Report more" />
-    <option name="LAST_COMMIT_MESSAGE" value="Report more" />
+    <MESSAGE value="Time in report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time in report" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Container.h</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

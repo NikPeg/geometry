@@ -13,20 +13,20 @@ private:
 public:
     void read() {
         std::cin >> figures_count;
-        std::string figure_type, color;
+        char figure_type;
         for (int i = 0; i < figures_count; ++i) {
             std::cin >> figure_type;
-            if (figure_type == "Circle") {
+            if (figure_type == 'C') {
                 auto *c = new Circle();
                 c->read();
                 figures[i] = c;
             }
-            else if (figure_type == "Rectangle") {
+            else if (figure_type == 'R') {
                 auto *r = new Rectangle();
                 r->read();
                 figures[i] = r;
             }
-            else if (figure_type == "Triangle") {
+            else if (figure_type == 'T') {
                 auto *t = new Triangle();
                 t->read();
                 figures[i] = t;

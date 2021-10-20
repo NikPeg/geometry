@@ -25,9 +25,9 @@ public:
     }
 
     void read() {
-        std::string color_string;
-        std::cin >> a.x >> a.y >> b.x >> b.y >> c.x >> c.y >> color_string;
-        color = stringToColor(color_string);
+        char color_char;
+        std::cin >> a.x >> a.y >> b.x >> b.y >> c.x >> c.y >> color_char;
+        color = stringToColor(color_char);
     }
 
     void print() override {

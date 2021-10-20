@@ -23,9 +23,9 @@ public:
     }
 
     void read() {
-        std::string color_string;
-        scanf("%d %d %d %d %s", &left_up.x, &left_up.y, &right_down.x, &right_down.y, &color_string[0]);
-        color = stringToColor(color_string);
+        char color_char;
+        scanf("%d %d %d %d %s", &left_up.x, &left_up.y, &right_down.x, &right_down.y, &color_char);
+        color = stringToColor(color_char);
     }
 
     void print() override {
