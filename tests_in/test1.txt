@@ -1,0 +1,4 @@
+3
+Circle 1 1 3 RED
+Triangle 1 1 2 2 3 3 GREEN
+Rectangle 1 1 5 5 BLUE

@@ -1,0 +1,3 @@
+Circle((1, 1), 3.000000, RED) Perimeter: 18.849556
+Rectangle((1, 1), (5, 5), BLUE) Perimeter: 16.000000
+Triangle((1, 1), (2, 2), (3, 3), GREEN) Perimeter: 5.656854
